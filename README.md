@@ -20,5 +20,5 @@ A collection of Operating System Resources for students, teachers and interested
 - <a href="https://www.researchgate.net/publication/353526819_A_Comparative_Analysis_of_Operating_System_case_study_of_Windows_Operating_and_Mackintosh_Operating_System"> A Comparative Analysis of Operating Systems: case study of Windows and Macintoch Operating Systems - Maryam Sarki Abubakar (pdf) </a>
 - <a href="https://www.researchgate.net/publication/343500639_Operating_Systems_The_Past_Present_and_Future"> Operating Systems: the past, present and future - Konstantin Tsvetskov (pdf) </a>
 - <a href="https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf"> The Google File System - Ghemawat, Gobiof, Leung (pdf) </a>
-- <a href="http://home.iitj.ac.in/~saurabh.heda/Papers/Survey/Survey%20of%20Contemporary%20RTOS%20-%202005.pdf"> A Survey of Contempoary Real-Time Operating Systems - S. Baskiyar and M. Meghanathan </a>
-- <a href="https://www.cl.cam.ac.uk/research/srg/netos/papers/2003-xensosp.pdf"> Xen and the Art of Virtualization - Barham, Dragovic, et al </a>
+- <a href="http://home.iitj.ac.in/~saurabh.heda/Papers/Survey/Survey%20of%20Contemporary%20RTOS%20-%202005.pdf"> A Survey of Contempoary Real-Time Operating Systems - S. Baskiyar and M. Meghanathan (pdf)</a>
+- <a href="https://www.cl.cam.ac.uk/research/srg/netos/papers/2003-xensosp.pdf"> Xen and the Art of Virtualization - Barham, Dragovic, et al (pdf) </a>
