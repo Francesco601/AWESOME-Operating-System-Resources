@@ -1,5 +1,5 @@
 # Operating-System-Resources
-A collection of Operating System Resources for student, teachers and interested readers
+A collection of Operating System Resources for students, teachers and interested readers
 <strong> <H1> Books   </H1> </strong>
 - <a href="https://drdineshsharma.com/Operating%20Systems.pdf"> Operating Systems: Three Easy Pieces - Remzy H. Arpacci-Dusseau, Andrea C. Arpacci-Dusseau  (pdf)</a>
 - <a href="https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf"> Operating System Concepts - Silberschatz, Galvin, Gagne (pdf)</a>
