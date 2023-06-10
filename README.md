@@ -14,3 +14,4 @@ A collection of Operating System Resources for students, teachers and interested
 - <a href="https://sciencesoftcode.files.wordpress.com/2018/12/the-linux-programming-interface-michael-kerrisk-1.pdf"> Windows Internals 7th Edition (Part 1) - Russinovich, Solomon, Ionescu </a>
 - <a href="https://doc.lagout.org/security/Windows%20Internals.pdf"> Windows Internals (part 2) - Russinovic, Solomon, Ionuscu </a>
 - <a href="https://csc-knu.github.io/sys-prog/books/Andrew%20S.%20Tanenbaum%20-%20Operating%20Systems.%20Design%20and%20Implementation.pdf"> Operating Systems Design and Implementation (The Minix book)- Andrew Tannenbaum, Albert Woodhull </a>
+- <a href="https://pdfs.semanticscholar.org/fe11/d3534950c811b05d3b8ddb0832046ac04f6f.pdf"> Operating System Design: The Xinu Approach - Douglas Comer </a>
