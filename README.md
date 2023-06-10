@@ -8,3 +8,4 @@ A collection of Operating System Resources for student, teachers and interested 
 - <a href="https://www.infobooks.org/free-pdf-books/computers/operating-systems/"> 15+ Free Operating System Books </a> 
 - <a href="https://docplayer.net/186755178-Operating-systems-an-introduction-by-r-garg-g-verma.html"> Operating Systems: An Introduction - R. Garg, G Verna </a>
 - <a href="https://tldp.org/LDP/intro-linux/intro-linux.pdf"> Introduction to Linux: A Hands on Guide - Machtelt Garrells </a>
+- <a href="https://www.kea.nu/files/textbooks/ospp/osppv1.pdf"> Operating Systems: Principles and Practices (Volume 1) </a>
