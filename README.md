@@ -11,3 +11,4 @@ A collection of Operating System Resources for student, teachers and interested 
 - <a href="https://www.kea.nu/files/textbooks/ospp/osppv1.pdf"> Operating Systems: Principles and Practices (Volume 1) - Anderson, Dahlin</a>
 - <a href="https://www.kea.nu/files/textbooks/ospp/osppv2.pdf"> Operating Systems: Principles and Practices (Volume 2) - Anderson, Dahlin </a>
 - <a href="https://sciencesoftcode.files.wordpress.com/2018/12/the-linux-programming-interface-michael-kerrisk-1.pdf"> The Linux Programming Interface - Micheal Kerrisk </a>
+- <a href="https://sciencesoftcode.files.wordpress.com/2018/12/the-linux-programming-interface-michael-kerrisk-1.pdf"> Windows Internals 7th Edition (Part 1) </a>
