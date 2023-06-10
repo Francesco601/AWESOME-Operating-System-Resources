@@ -6,3 +6,4 @@ A collection of Operating System Resources for student, teachers and interested 
 - <a href="https://csc-knu.github.io/sys-prog/books/Andrew%20S.%20Tanenbaum%20-%20Modern%20Operating%20Systems.pdf">  Modern Operating Systems - Tannenbaum, Bos (pdf)</a>
 - <a href="http://160592857366.free.fr/joe/ebooks/ShareData/Design%20of%20the%20Unix%20Operating%20System%20By%20Maurice%20Bach.pdf"> The Design of the Unix Operating System - Maurice J. Bach (pdf)</a>
 - <a href="https://www.infobooks.org/free-pdf-books/computers/operating-systems/"> 15+ Free Operating System Books </a> 
+- <a href="https://docplayer.net/186755178-Operating-systems-an-introduction-by-r-garg-g-verma.html"> Operating Systems by R. Garg, G Verna </a>
