@@ -25,3 +25,5 @@ A collection of Operating System Resources for students, teachers and interested
 - <a href="https://dl.acm.org/doi/10.1145/1810931.1810936"> Mobile Computing: the Next Decade - M. Satyanarayanan </a>
 - <a href="https://dada.cs.washington.edu/smt/papers/os.pdf"> An Analysis of Operatins System Behavior on a Simultaneous Mulitthreaded Architecture - Redston, Eggers, Levy </a>
 - <a href="https://arxiv.org/pdf/1205.6423.pdf"> Proposed Challenges and Areas of Concern in Operating System Rsearch and Development - Plawam Kumar Rath, Anil G.N. </a>
+- <a href="https://dl.acm.org/doi/abs/10.1145/800217.806621"> The Distrubuted V Kernek and Its Peformance for Diskless Workstations -David R. Cherlton, Willy Zwanepoel </a>
+
