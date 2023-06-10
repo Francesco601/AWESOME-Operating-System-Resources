@@ -22,3 +22,4 @@ A collection of Operating System Resources for students, teachers and interested
 - <a href="https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf"> The Google File System - Ghemawat, Gobiof, Leung (pdf) </a>
 - <a href="http://home.iitj.ac.in/~saurabh.heda/Papers/Survey/Survey%20of%20Contemporary%20RTOS%20-%202005.pdf"> A Survey of Contempoary Real-Time Operating Systems - S. Baskiyar and M. Meghanathan (pdf)</a>
 - <a href="https://www.cl.cam.ac.uk/research/srg/netos/papers/2003-xensosp.pdf"> Xen and the Art of Virtualization - Barham, Dragovic, et al (pdf) </a>
+- <a href="https://dl.acm.org/doi/10.1145/1810931.1810936"> Mobile Computing: the Next Decade - M. Satyanarayanan </a>
