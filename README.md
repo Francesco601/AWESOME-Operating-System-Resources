@@ -91,3 +91,7 @@ A collection of Operating System Resources for students, teachers and anyone int
 - <a href="https://arxiv.org/pdf/1205.6423.pdf"> Proposed Challenges and Areas of Concern in Operating System Rsearch and Development </a> - Plawam Kumar Rath, Anil G.N. 
 - <a href="https://dl.acm.org/doi/abs/10.1145/800217.806621"> The Distrubuted V Kernek and Its Peformance for Diskless Workstations </a> -David R. Cherlton, Willy Zwanepoel 
 
+<strong> <H2> Videos </H2> </strong>
+- <a href="https://www.udacity.com/course/introduction-to-operating-systems--ud923"> Udacity course; Introduction to Operating Systems </a>
+
+
