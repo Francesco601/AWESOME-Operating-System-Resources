@@ -79,6 +79,7 @@ A collection of Operating System Resources for students, teachers and anyone int
 - <a href="https://pdfs.semanticscholar.org/fe11/d3534950c811b05d3b8ddb0832046ac04f6f.pdf"> Operating System Design: The Xinu Approach </a>- Douglas Comer (pdf)
 - <a href="https://doc.lagout.org/operating%20system%20/linux/Understanding%20Operating%20Systems.pdf"> Understanding Operating Systems </a> Ida M. Flynn, Ann McIver McHoes (pdf) 
 - <a href="https://edu.anarcho-copy.org/Against%20Security%20-%20Self%20Security/linux-bible-christopher-negus-10th.pdf"> Linux Bible </a> - Christopher Negus  (pdf)
+- <a href="https://doc.lagout.org/operating%20system%20/linux/Understanding%20Linux%20Kernel.pdf"> Understanding the Linux Kernel </a> - Daniel P. Bovet and Marco Cesati
 
 <strong> <H2> Articles: </H2> </strong>
 - <a href="https://www.researchgate.net/publication/353526819_A_Comparative_Analysis_of_Operating_System_case_study_of_Windows_Operating_and_Mackintosh_Operating_System"> A Comparative Analysis of Operating Systems: case study of Windows and Macintoch Operating Systems </a>- Maryam Sarki Abubakar (pdf)
