@@ -19,6 +19,7 @@ A collection of Operating System Resources for students, teachers and anyone int
 - <a href="https://genode.org/">  Genode </a>  An FOSS operating system framework consisting of a microkernel abstraction layer and a collection of userspace components
 - <a href="https://github.com/gopher-os/gopher-os"> Gopher-os </a>  A proof of concept OS kernel written in Go
 - <a href="https://greenteaos.github.io/"> GreenTeaOS </a>  A free OS designed to be compatible with Windows executables 
+- <a href="https://www.haiku-os.org/"> Haiku </a> An open-source operating system that speficially targets personal computing.Inspired by BeOS
 - <a href="https://harvey-os.org/">  HarveyOS </a> A distributed operating system
 - <a href="https://github.com/HelenOS/helenos"> HelenOS </a>  A multikernel multiserver OS
 - <a href="https://github.com/mszoek/helium"> Helium </a>  A BSD-based OS project that aims to provide an experience like and some compatibility with macOS
