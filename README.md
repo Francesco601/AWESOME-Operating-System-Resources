@@ -3,6 +3,7 @@ A collection of Operating System Resources for students, teachers and anyone int
 <strong> <H2> Operating Systems with source code or open source</H2> </strong>
 - <a href="http://9front.org"> 9front </a> A fork of Plan 9, designed for distributed, networked computing. 
 - <a href="https://github.com/ackOS-project/ackOS">  AckOS </a> A simple 64-bit operating system. 
+- <a href="https://www.amigaos.net/"> Amiga OS 4.1 </a> The new final edition extends Amiga 4.1 functionality with web browsing, etc..
 - <a href="https://aros.sourceforge.io/">  Aros Research Operating System </a>  A lightweight, efficient, and flexible desktop operating system, designed to help you make the most of your computer. It's an independent, portable and free project, aiming at being compatible with AmigaOS at the API level 
 - <a href="https://github.com/Bone-Project/BoneOS">  BoneOS. </a> An OS for everyone built by everyone.
 - <a href="https://github.com/bottlerocket-os/bottlerocket">  Bottlerocket </a> A Linux-based OS meant for hosting containers.
