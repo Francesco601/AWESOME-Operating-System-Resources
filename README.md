@@ -13,12 +13,12 @@ A collection of Operating System Resources for students, teachers and interested
 - <a href="https://dahliaos.io"> dahliaOS </a> is a modern, secure, lightweight and responsive operating system, combining the best of GNU/Linux and Fuchsia OS.
 - <a href="https://github.com/icexin/eggos"> EGGOS </a> A Go unikernel running on x86 bare metal
 - <a href="https://embox.github.io/"> embox </a>  Configurable operating system kernel designed for resource constrained and embedded systems.
-* [ExectOS](https://git.codingworkshop.eu.org/xt-sys/exectos), [GitHub](https://github.com/xt-sys/exectos) - ExectOS is a modern, EFI-enabled, general purpose operating system written from scratch and implementing the XT architecture. It runs on x86 and x86_64 architectures and provides NT drivers compatibility layer.
-* [Fiwix](https://www.fiwix.org/), [GitHub](https://github.com/mikaku/Fiwix) - A UNIX-like kernel for the i386 architecture.
-* [FreeRTOS](https://aws.amazon.com/freertos/), [GitHub](https://github.com/aws/amazon-freertos) - IoT operating system for microcontrollers, by Amazon.
-* [Genode](https://genode.org/) - A FOSS operating system framework consisting of a microkernel abstraction layer and a collection of userspace components
-* [gopher-os](https://github.com/gopher-os/gopher-os) - A proof of concept OS kernel written in Go
-* [GreenteaOS](https://greenteaos.github.io/), [Github](https://github.com/GreenteaOS/Greentea) - A free OS designed to be compatible with Windows executables 
+- <a href="https://git.codingworkshop.eu.org/xt-sys/exectos"> - ExectOS </a> is a modern, EFI-enabled, general purpose operating system written from scratch and implementing the XT architecture. It runs on x86 and x86_64 architectures and provides NT drivers compatibility layer.
+- <a href="https://www.fiwix.org/"> Fiwix </a>  A UNIX-like kernel for the i386 architecture.
+- <a href="(https://aws.amazon.com/freertos/"> Freertos </a>  IoT operating system for microcontrollers, by Amazon.
+- <a href="https://genode.org/">  Genode </a>  An FOSS operating system framework consisting of a microkernel abstraction layer and a collection of userspace components
+- <a href="https://github.com/gopher-os/gopher-os"> Gopher-os </a>  A proof of concept OS kernel written in Go
+- <a href="https://greenteaos.github.io/"> GreenTeaOS </a>  A free OS designed to be compatible with Windows executables 
 * [HarveyOS](https://harvey-os.org/) - A distributed operating system
 * [HelenOS](https://github.com/HelenOS/helenos) - multikernel multiserver OS
 * [helium](https://github.com/mszoek/helium) - A BSD-based OS project that aims to provide an experience like and some compatibility with macOS
