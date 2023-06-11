@@ -82,6 +82,15 @@ A collection of Operating System Resources for students, teachers and anyone int
 - <a href="https://doc.lagout.org/operating%20system%20/linux/Understanding%20Linux%20Kernel.pdf"> Understanding the Linux Kernel </a> - Daniel P. Bovet and Marco Cesati
 - <a href="https://docs.freebsd.org/en/books/design-44bsd/"> Design and Implementation of the FreeBSD kernrl </a> HTML 
 - <a href="https://mog.dog/files/SP2019/2017%20Nemeth%20Evi%20etal%20-%20UNIX%20and%20Linux%20System%20Administration%20Handbook%5B5thED%5D_Rell.pdf"> Unix and Linux System Administration Handbook </a> - Nemeth, Snyder,Hein, Whaley, Makin (pfd)
+- [How to Make a Computer Operating System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - in C++
+- [Intermezzos](https://intermezzos.github.io/book/) - A follow along book to build IntermezzosOS in Rust
+- [Linux Kernel in a Nutshell](http://www.kroah.com/lkn/) - Covers the entire range of kernel tasks, available as chapters or one PDF
+- [The little book about OS development](http://littleosbook.github.io/) by *Erik Helin* and *Adam Renberg*
+- [Think OS](http://greenteapress.com/thinkos/) - A Brief Introduction to Operating Systems by *Allen B. Downey*
+- [Operating System Development Series](http://www.brokenthorn.com/Resources/OSDevIndex.html) - OS from the ground up in C
+- [xv6: a simple, Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2019/xv6/book-riscv-rev0.pdf) - Book for Xv6
+* [Operating Systems: From 0 to 1](https://tuhdo.github.io/os01/) - Bootstrap yourself to write an OS from scratch by *Do Hoang Tu*
+
 
 <strong> <H2> Articles: </H2> </strong>
 - <a href="https://www.researchgate.net/publication/353526819_A_Comparative_Analysis_of_Operating_System_case_study_of_Windows_Operating_and_Mackintosh_Operating_System"> A Comparative Analysis of Operating Systems: case study of Windows and Macintoch Operating Systems </a>- Maryam Sarki Abubakar (pdf)
