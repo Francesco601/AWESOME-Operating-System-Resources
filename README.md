@@ -42,6 +42,7 @@ A collection of Operating System Resources for students, teachers and anyone int
 - <a href="https://dl.acm.org/doi/10.1145/142854.142879"> OSP </a>  Both an implementation of an OS and a flexible environment for generating implementation projects. 
 - <a href="https://github.com/GandelXIV/pidi-os"> Pidi OS </a>  Independent and minimalistic OS
 - <a href="https://github.com/ravynsoft/ravynos"> Ravynos </a> -BSD-based OS project that aims to provide an experience like and some compatibility with macOS (formerly known as airyxOS)
+- <a href="https://reactos.org/"> ReactOS </a> Designed to run your favorite Windows applications in an environment you can trust.
 - <a href="https://github.com/redox-os/redox"> Redox </a> Another one written in Rust
 - <a href="https://github.com/hermitcore/rusty-hermit"> Rusty Hermit </a>  A Rust-based, lightweight unikernel
 - <a href="http://www.jbox.dk/sanos"> Sanos </a> Sanos is a minimalistic 32-bit x86 operating system kernel for network server appliances running on standard PC hardware.
