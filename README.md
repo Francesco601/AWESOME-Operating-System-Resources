@@ -1,15 +1,15 @@
 # Operating-System-Resources
 A collection of Operating System Resources for students, teachers and interested readers
-<strong> <H1> Operating Systems with source code </H1> </strong>
+<strong> <H2> Operating Systems with source code </H2> </strong>
 - <a href="http://9front.org"> 9Front </a> A fork of Plan 9, designed for distributed, networked computing. 
 - <a href="https://github.com/ackOS-project/ackOS">  AckOS </a> A simple 64-bit operating system. 
 - <a href="https://aros.sourceforge.io/">  Aros Research Operating System </a>  A lightweight, efficient, and flexible desktop operating system, designed to help you make the most of your computer. It's an independent, portable and free project, aiming at being compatible with AmigaOS at the API level 
 - <a href="https://github.com/Bone-Project/BoneOS">  BoneOS. </a> An OS for everyone built by everyone.
 - <a href="https://github.com/bottlerocket-os/bottlerocket">  Bottletocket </a> A Linux-based OS meant for hosting containers.
 - <a href="https://github.com/opencreeck/Cadex-OS-Official"> Cadex-OS  </a> A simple operating system kernel originally made by Prof. Douglas Thain at the University of Notre Dame and students
-* [ChibiOS](http://www.chibios.org/) - a complete development environment for embedded applications including RTOS, an HAL, peripheral drivers, support files and tools
-* [Clive](https://lsub.org/ls/clive.html) - A unikernel OS inspired by Plan9 and Nix developed at *Universidad Rey Juan Carlos of Madrid*
-* [CollapseOS](https://collapseos.org/) - Bootstrap post-collapse technology
+- <a href="http://www.chibios.org/">  Chibios </a>  A complete development environment for embedded applications including RTOS, an HAL, peripheral drivers, support files and tools
+- <a href="https://lsub.org/ls/clive.html"> Clive </a> A unikernel OS inspired by Plan9 and Nix developed at *Universidad Rey Juan Carlos of Madrid*
+- <a href="https://collapseos.org/"> Collapse OS </a> Bootstrap post-collapse technology
 * [dahliaOS](https://dahliaos.io)- dahliaOS is a modern, secure, lightweight and responsive operating system, combining the best of GNU/Linux and Fuchsia OS.
 * [eggos](https://github.com/icexin/eggos) - A Go unikernel running on x86 bare metal
 * [Embox](https://embox.github.io/) - Configurable operating system kernel designed for resource constrained and embedded systems.
@@ -55,10 +55,7 @@ A collection of Operating System Resources for students, teachers and interested
 * [hhuOS](https://github.com/hhuOS/hhuOS) - hhuOS is a small operating system written in C++ and Assembler for the x86-architecture. The main purpose of this project is to show how different aspects of operating systems theory can be implemented and linked together. The system is not aimed to be a full-featured operating system for daily use.
 
 
-
-
-
-<strong> <H1> Books   </H1> </strong>
+<strong> <H2> Books   </H2> </strong>
 - <a href="https://drdineshsharma.com/Operating%20Systems.pdf"> Operating Systems: Three Easy Pieces - Remzy H. Arpacci-Dusseau, Andrea C. Arpacci-Dusseau  (pdf)</a>
 - <a href="https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf"> Operating System Concepts - Silberschatz, Galvin, Gagne (pdf)</a>
 - <a href="https://csc-knu.github.io/sys-prog/books/Andrew%20S.%20Tanenbaum%20-%20Modern%20Operating%20Systems.pdf">  Modern Operating Systems - Tannenbaum, Bos (pdf)</a>
