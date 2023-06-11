@@ -94,4 +94,4 @@ A collection of Operating System Resources for students, teachers and anyone int
 <strong> <H2> Videos </H2> </strong>
 - <a href="https://www.udacity.com/course/introduction-to-operating-systems--ud923"> Udacity course; Introduction to Operating Systems </a>
 - <a href="https://www.udacity.com/course/advanced-operating-systems--ud189"> Udacity: Advanced Operating Systems </a>
-
+- <a href="https://www.youtube.com/watch?v=xy4wKdArpWw"> Operating System Course for Beginners: ClayDesk E-Learning </a>
