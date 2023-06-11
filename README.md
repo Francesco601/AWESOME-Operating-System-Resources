@@ -89,7 +89,7 @@ A collection of Operating System Resources for students, teachers and anyone int
 - [Think OS](http://greenteapress.com/thinkos/) - A Brief Introduction to Operating Systems by *Allen B. Downey*
 - [Operating System Development Series](http://www.brokenthorn.com/Resources/OSDevIndex.html) - OS from the ground up in C
 - [xv6: a simple, Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2019/xv6/book-riscv-rev0.pdf) - Book for Xv6
-* [Operating Systems: From 0 to 1](https://tuhdo.github.io/os01/) - Bootstrap yourself to write an OS from scratch by *Do Hoang Tu*
+- [Operating Systems: From 0 to 1](https://tuhdo.github.io/os01/) - Bootstrap yourself to write an OS from scratch by *Do Hoang Tu*
 
 
 <strong> <H2> Articles: </H2> </strong>
