@@ -1,5 +1,5 @@
 # Operating-System-Resources
-A collection of Operating System Resources for students, teachers and interested readers
+A collection of Operating System Resources for students, teachers and anyone interested.
 <strong> <H2> Operating Systems with source code </H2> </strong>
 - <a href="http://9front.org"> 9Front </a> A fork of Plan 9, designed for distributed, networked computing. 
 - <a href="https://github.com/ackOS-project/ackOS">  AckOS </a> A simple 64-bit operating system. 
@@ -19,10 +19,10 @@ A collection of Operating System Resources for students, teachers and interested
 - <a href="https://genode.org/">  Genode </a>  An FOSS operating system framework consisting of a microkernel abstraction layer and a collection of userspace components
 - <a href="https://github.com/gopher-os/gopher-os"> Gopher-os </a>  A proof of concept OS kernel written in Go
 - <a href="https://greenteaos.github.io/"> GreenTeaOS </a>  A free OS designed to be compatible with Windows executables 
-* [HarveyOS](https://harvey-os.org/) - A distributed operating system
-* [HelenOS](https://github.com/HelenOS/helenos) - multikernel multiserver OS
-* [helium](https://github.com/mszoek/helium) - A BSD-based OS project that aims to provide an experience like and some compatibility with macOS
-* [Hubris](https://hubris.oxide.computer/) - Hubris is an operating system for microcontrollers developed by Oxide Computer Company in Rust
+- <a href="https://harvey-os.org/">  HarveyOS </a> A distributed operating system
+- <a href="https://github.com/HelenOS/helenos"> HelenOS </a>  A multikernel multiserver OS
+- <a href="https://github.com/mszoek/helium"> Helium </a>  A BSD-based OS project that aims to provide an experience like and some compatibility with macOS
+- <a href="https://hubris.oxide.computer/"> -Hubris </a>  An operating system for microcontrollers developed by Oxide Computer Company and written in Rust
 * [Interim](https://github.com/mntmn/interim) - Minimalist OS with concepts from Lisp machines and Plan9
 * [Jehanne](http://jehanne.io/), [GitHub](https://github.com/JehanneOS/jehanne/) - OS inspired by Plan9, 9front and Harvey OS
 * [KnightOS](https://github.com/KnightOS/KnightOS) - for z80 calculators
