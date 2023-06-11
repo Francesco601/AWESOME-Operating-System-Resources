@@ -31,9 +31,11 @@ A collection of Operating System Resources for students, teachers and anyone int
 - <a href="https://github.com/kernkonzept/l4re-core"> l4re-core </a>  Operating system and hypervisor for security/safety-critical and virtualization-enabled applications.
 - <a href="https://github.com/managarm/managarm"> Managarm </a>  Pragmatic microkernel-based OS with fully asynchronous I/O
 - <a href="https://github.com/mentos-team/MentOS"> MentOS </a>  An educational 32-bit Linux-like Operating System.
+- <a href="http://www.menuetos.net/"> Menuet OS </a> An OS in development for PC. Written entirely in Assembly (32 and 64 bit)
 - <a href="https://mimiker.ii.uni.wroc.pl/"> Mimimiker </a> A Simple, unix-like operating system for education and research purposes. MIPS microkernel.
 - <a href="https://github.com/minoca/os"> Minoca </a>  General purpose OS, written in C
 - <a href="https://github.com/Meulengracht/MollenOS"> MollenOS </a>  MollenOS/Vali is a modern operating system that is built with focus on abstraction and a modular design, allowing anyone to port it to any architecture. It currently targets the x86-32 and x86-64 platforms.
+- <a href="https://www.morphos-team.net/intro"> Morphos </a> Includes a high-performace just-in.time compiler that emulates the 68k family of processors and thereby allows to transparently execute legacy applications developed for the Commodore Ax00 seris of computers.
 - <a href="https://github.com/nanovms/nanos"> Nanos </a>  Unikernel that is linux-compatible, written in C
 - <a href="https://notin.tokyo/nesos/"> Nesos </a>  An OS for the Nintendo Entertainment System!
 - <a href="https://github.com/NodeOS/NodeOS"> NodeOS </a> An OS using NodeJS and Linux
@@ -49,6 +51,7 @@ A collection of Operating System Resources for students, teachers and anyone int
 - <a href="https://skiftos.org/">  Skiftos </a> A simple, handmade, operating system with a graphical user interface.
 - <a href="https://genode.org/download/sculpt"> Sculpt OS </a> - Genode based OS
 - <a href="https://github.com/ozkl/soso"> Soso  </a> Simple Unix-like operating system written in Nasm assembly and mostly in C
+- <a href="http://syllable.metaproject.frl/"> Syllable operating system </a> Designed in the tradition of the Amiga and BeOS. but built using many parts from the GNU project and Linux.
 - <a href="https://github.com/SynestiaOS/SynestiaOS"> Synesthia OS </a>  32/64 bit operating system written in C for arm platform
 - <a href="https://github.com/wichtounet/thor-os"> Thor OS </a> - 64bit operating system mostly written in C++
 - <a href="https://github.com/theseus-os/Theseus"> Theseus </a>  A modern experimental OS written from scratch in Rust to explore novel OS structure and state management techniques.
