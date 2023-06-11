@@ -15,7 +15,7 @@ A collection of Operating System Resources for students, teachers and anyone int
 - <a href="https://embox.github.io/"> embox </a>  Configurable operating system kernel designed for resource constrained and embedded systems.
 - <a href="https://git.codingworkshop.eu.org/xt-sys/exectos">  ExectOS </a> is a modern, EFI-enabled, general purpose operating system written from scratch and implementing the XT architecture. It runs on x86 and x86_64 architectures and provides NT drivers compatibility layer.
 - <a href="https://www.fiwix.org/"> Fiwix </a>  A UNIX-like kernel for the i386 architecture.
-- <a href="(https://aws.amazon.com/freertos/"> Freertos </a>  IoT operating system for microcontrollers, by Amazon.
+- <a href="https://aws.amazon.com/freertos/"> Freertos </a>  IoT operating system for microcontrollers, by Amazon.
 - <a href="https://genode.org/">  Genode </a>  An FOSS operating system framework consisting of a microkernel abstraction layer and a collection of userspace components
 - <a href="https://github.com/gopher-os/gopher-os"> Gopher-os </a>  A proof of concept OS kernel written in Go
 - <a href="https://greenteaos.github.io/"> GreenTeaOS </a>  A free OS designed to be compatible with Windows executables 
@@ -26,7 +26,7 @@ A collection of Operating System Resources for students, teachers and anyone int
 - <a href="https://github.com/mntmn/interim">  Interim </a> Minimalist OS with concepts from Lisp machines and Plan9
 - <a href="http://jehanne.io/"> Jehanne </a>  OS inspired by Plan9, 9front and Harvey OS
 - <a href="https://github.com/KnightOS/KnightOS"> KnightOS </a> An OS for z80 calculators
-* [L4re](https://github.com/kernkonzept/l4re-core) - Operating system and hypervisor for security/safety-critical and virtualization-enabled applications.
+- <a href="https://github.com/kernkonzept/l4re-core"> l4re-core </a>  Operating system and hypervisor for security/safety-critical and virtualization-enabled applications.
 * [managarm](https://github.com/managarm/managarm) - Pragmatic microkernel-based OS with fully asynchronous I/O
 * [MentOS](https://github.com/mentos-team/MentOS) - An educational 32-bit linux-like Operating System.
 * [Mimiker](https://mimiker.ii.uni.wroc.pl/), [GitHub](https://github.com/cahirwpz/mimiker) - Simple unix-like operating system for education and research purposes. MIPS microkernel.
