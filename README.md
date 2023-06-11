@@ -82,8 +82,8 @@ A collection of Operating System Resources for students, teachers and anyone int
 - <a href="https://doc.lagout.org/operating%20system%20/linux/Understanding%20Linux%20Kernel.pdf"> Understanding the Linux Kernel </a> - Daniel P. Bovet and Marco Cesati
 - <a href="https://docs.freebsd.org/en/books/design-44bsd/"> Design and Implementation of the FreeBSD kernrl </a> HTML 
 - <a href="https://mog.dog/files/SP2019/2017%20Nemeth%20Evi%20etal%20-%20UNIX%20and%20Linux%20System%20Administration%20Handbook%5B5thED%5D_Rell.pdf"> Unix and Linux System Administration Handbook </a> - Nemeth, Snyder,Hein, Whaley, Makin (pfd)
-- [How to Make a Computer Operating System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - in C++
-- [Intermezzos](https://intermezzos.github.io/book/) - A follow along book to build IntermezzosOS in Rust
+- <a href="https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System"> How to Make a Computer Operating System  </a>- in C++
+- <a href="https://intermezzos.github.io/book/">  Intermezzos </a>- A follow along book to build IntermezzosOS in Rust
 - [Linux Kernel in a Nutshell](http://www.kroah.com/lkn/) - Covers the entire range of kernel tasks, available as chapters or one PDF
 - [The little book about OS development](http://littleosbook.github.io/) by *Erik Helin* and *Adam Renberg*
 - [Think OS](http://greenteapress.com/thinkos/) - A Brief Introduction to Operating Systems by *Allen B. Downey*
