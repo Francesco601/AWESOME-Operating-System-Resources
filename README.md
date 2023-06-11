@@ -1,8 +1,8 @@
 # Operating-System-Resources
 A collection of Operating System Resources for students, teachers and interested readers
 <strong> <H1> Opearating Systems with source code </H1> </strong>
- [9front](http://9front.org) - A fork of Plan 9, designed for distributed, networked computing.
-* [ackOS](https://github.com/ackOS-project/ackOS) - A simple 64-bit operating system.
+- <a href="http://9front.org"> 9 Front is a fork of Plan 9, designed for distributed, networked computing. </a>
+- <a href="https://github.com/ackOS-project/ackOS">  AckOS is A simple 64-bit operating system. </a>
 * [AROS](https://aros.sourceforge.io/) - Research Operating System is a lightweight, efficient, and flexible desktop operating system, designed to help you make the most of your computer. It's an independent, portable and free project, aiming at being compatible with AmigaOS at the API level
 * [BoneOS](https://github.com/Bone-Project/BoneOS)- OS for everyone built by everyone
 * [Bottlerocket OS](https://github.com/bottlerocket-os/bottlerocket)- Linux-based OS meant for hosting containers.
