@@ -7,16 +7,16 @@ A collection of Operating System Resources for students, teachers and interested
 - <a href="http://160592857366.free.fr/joe/ebooks/ShareData/Design%20of%20the%20Unix%20Operating%20System%20By%20Maurice%20Bach.pdf"> The Design of the Unix Operating System - Maurice J. Bach (pdf)</a>
 - <a href="https://www.infobooks.org/free-pdf-books/computers/operating-systems/"> 15+ Free Operating System Books </a> 
 - <a href="https://docplayer.net/186755178-Operating-systems-an-introduction-by-r-garg-g-verma.html"> Operating Systems: An Introduction - R. Garg, G Verna </a>
-- <a href="https://tldp.org/LDP/intro-linux/intro-linux.pdf"> Introduction to Linux: A Hands on Guide - Machtelt Garrells </a>
-- <a href="https://www.kea.nu/files/textbooks/ospp/osppv1.pdf"> Operating Systems: Principles and Practices (Volume 1) - Anderson, Dahlin</a>
-- <a href="https://www.kea.nu/files/textbooks/ospp/osppv2.pdf"> Operating Systems: Principles and Practices (Volume 2) - Anderson, Dahlin </a>
-- <a href="https://sciencesoftcode.files.wordpress.com/2018/12/the-linux-programming-interface-michael-kerrisk-1.pdf"> The Linux Programming Interface - Micheal Kerrisk </a>
-- <a href="https://sciencesoftcode.files.wordpress.com/2018/12/the-linux-programming-interface-michael-kerrisk-1.pdf"> Windows Internals 7th Edition (Part 1) - Russinovich, Solomon, Ionescu </a>
-- <a href="https://doc.lagout.org/security/Windows%20Internals.pdf"> Windows Internals (part 2) - Russinovic, Solomon, Ionuscu </a>
-- <a href="https://csc-knu.github.io/sys-prog/books/Andrew%20S.%20Tanenbaum%20-%20Operating%20Systems.%20Design%20and%20Implementation.pdf"> Operating Systems Design and Implementation (The Minix book)- Andrew Tannenbaum, Albert Woodhull </a>
-- <a href="https://pdfs.semanticscholar.org/fe11/d3534950c811b05d3b8ddb0832046ac04f6f.pdf"> Operating System Design: The Xinu Approach - Douglas Comer </a>
-- <a href="https://doc.lagout.org/operating%20system%20/linux/Understanding%20Operating%20Systems.pdf"> Understanding Operating Systems - Ida M. Flynn, Ann McIver McHoes </a>
-- <a href="https://edu.anarcho-copy.org/Against%20Security%20-%20Self%20Security/linux-bible-christopher-negus-10th.pdf"> Linux Bible - Christopher Negus </a>
+- <a href="https://tldp.org/LDP/intro-linux/intro-linux.pdf"> Introduction to Linux: A Hands on Guide - Machtelt Garrells (pdf)</a>
+- <a href="https://www.kea.nu/files/textbooks/ospp/osppv1.pdf"> Operating Systems: Principles and Practices (Volume 1) - Anderson, Dahlin (pdf)</a>
+- <a href="https://www.kea.nu/files/textbooks/ospp/osppv2.pdf"> Operating Systems: Principles and Practices (Volume 2) - Anderson, Dahlin (pdf)</a>
+- <a href="https://sciencesoftcode.files.wordpress.com/2018/12/the-linux-programming-interface-michael-kerrisk-1.pdf"> The Linux Programming Interface - Micheal Kerrisk (pdf)</a>
+- <a href="https://sciencesoftcode.files.wordpress.com/2018/12/the-linux-programming-interface-michael-kerrisk-1.pdf"> Windows Internals 7th Edition (Part 1) - Russinovich, Solomon, Ionescu (pdf)</a>
+- <a href="https://doc.lagout.org/security/Windows%20Internals.pdf"> Windows Internals (part 2) - Russinovic, Solomon, Ionuscu (pdf)</a>
+- <a href="https://csc-knu.github.io/sys-prog/books/Andrew%20S.%20Tanenbaum%20-%20Operating%20Systems.%20Design%20and%20Implementation.pdf"> Operating Systems Design and Implementation (The Minix book)- Andrew Tannenbaum, Albert Woodhull (pdf)</a>
+- <a href="https://pdfs.semanticscholar.org/fe11/d3534950c811b05d3b8ddb0832046ac04f6f.pdf"> Operating System Design: The Xinu Approach - Douglas Comer (pdf) </a>
+- <a href="https://doc.lagout.org/operating%20system%20/linux/Understanding%20Operating%20Systems.pdf"> Understanding Operating Systems - Ida M. Flynn, Ann McIver McHoes (pdf) </a>
+- <a href="https://edu.anarcho-copy.org/Against%20Security%20-%20Self%20Security/linux-bible-christopher-negus-10th.pdf"> Linux Bible - Christopher Negus  (pdf)</a>
 
 <strong> <H1> Articles: </H1> </strong>
 - <a href="https://www.researchgate.net/publication/353526819_A_Comparative_Analysis_of_Operating_System_case_study_of_Windows_Operating_and_Mackintosh_Operating_System"> A Comparative Analysis of Operating Systems: case study of Windows and Macintoch Operating Systems - Maryam Sarki Abubakar (pdf) </a>
