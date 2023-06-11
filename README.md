@@ -10,9 +10,9 @@ A collection of Operating System Resources for students, teachers and interested
 - <a href="http://www.chibios.org/">  Chibios </a>  A complete development environment for embedded applications including RTOS, an HAL, peripheral drivers, support files and tools
 - <a href="https://lsub.org/ls/clive.html"> Clive </a> A unikernel OS inspired by Plan9 and Nix developed at *Universidad Rey Juan Carlos of Madrid*
 - <a href="https://collapseos.org/"> Collapse OS </a> Bootstrap post-collapse technology
-* [dahliaOS](https://dahliaos.io)- dahliaOS is a modern, secure, lightweight and responsive operating system, combining the best of GNU/Linux and Fuchsia OS.
-* [eggos](https://github.com/icexin/eggos) - A Go unikernel running on x86 bare metal
-* [Embox](https://embox.github.io/) - Configurable operating system kernel designed for resource constrained and embedded systems.
+- <a href="https://dahliaos.io"> dahliaOS </a> is a modern, secure, lightweight and responsive operating system, combining the best of GNU/Linux and Fuchsia OS.
+- <a href="https://github.com/icexin/eggos"> EGGOS </a> A Go unikernel running on x86 bare metal
+- <a href="https://embox.github.io/"> embox </a>  Configurable operating system kernel designed for resource constrained and embedded systems.
 * [ExectOS](https://git.codingworkshop.eu.org/xt-sys/exectos), [GitHub](https://github.com/xt-sys/exectos) - ExectOS is a modern, EFI-enabled, general purpose operating system written from scratch and implementing the XT architecture. It runs on x86 and x86_64 architectures and provides NT drivers compatibility layer.
 * [Fiwix](https://www.fiwix.org/), [GitHub](https://github.com/mikaku/Fiwix) - A UNIX-like kernel for the i386 architecture.
 * [FreeRTOS](https://aws.amazon.com/freertos/), [GitHub](https://github.com/aws/amazon-freertos) - IoT operating system for microcontrollers, by Amazon.
