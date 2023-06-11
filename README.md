@@ -27,18 +27,18 @@ A collection of Operating System Resources for students, teachers and anyone int
 - <a href="http://jehanne.io/"> Jehanne </a>  OS inspired by Plan9, 9front and Harvey OS
 - <a href="https://github.com/KnightOS/KnightOS"> KnightOS </a> An OS for z80 calculators
 - <a href="https://github.com/kernkonzept/l4re-core"> l4re-core </a>  Operating system and hypervisor for security/safety-critical and virtualization-enabled applications.
-* [managarm](https://github.com/managarm/managarm) - Pragmatic microkernel-based OS with fully asynchronous I/O
-* [MentOS](https://github.com/mentos-team/MentOS) - An educational 32-bit linux-like Operating System.
-* [Mimiker](https://mimiker.ii.uni.wroc.pl/), [GitHub](https://github.com/cahirwpz/mimiker) - Simple unix-like operating system for education and research purposes. MIPS microkernel.
-* [Minoca OS](https://github.com/minoca/os) - General purpose OS, written in C
-* [MollenOS](https://github.com/Meulengracht/MollenOS) - MollenOS/Vali is a modern operating system that is built with focus on abstraction and a modular design, allowing anyone to port it to any architecture. It currently targets the x86-32 and x86-64 platform
-* [Nanos](https://github.com/nanovms/nanos) - Unikernel that is linux-compatible, written in C
-* [NESOS](https://notin.tokyo/nesos/) - An OS for the Nintendo Entertainment System!
-* [NodeOS](https://github.com/NodeOS/NodeOS) - OS using NodeJS and Linux
-* [opuntiaOS](https://github.com/opuntiaOS-Project/opuntiaOS) -  an operating system targeting x86, ARMv7, Aarch64.
-* [orange_slice](https://github.com/gamozolabs/orange_slice) - A research kernel and hypervisor attempting to get fully deterministic emulation with minimum performance cost. In Rust
-* [Pidi OS](https://github.com/GandelXIV/pidi-os) - Independent and minimalistic OS
-* [ravynOS](https://github.com/ravynsoft/ravynos) - BSD-based OS project that aims to provide an experience like and some compatibility with macOS (formerly known as airyxOS)
+- <a href="https://github.com/managarm/managarm"> Managarm </a>  Pragmatic microkernel-based OS with fully asynchronous I/O
+- <a href="https://github.com/mentos-team/MentOS"> MentOS </a>  An educational 32-bit Linux-like Operating System.
+- <a href="https://mimiker.ii.uni.wroc.pl/"> Mimimiker </a> A Simple, unix-like operating system for education and research purposes. MIPS microkernel.
+- <a href="https://github.com/minoca/os"> Minoca </a>  General purpose OS, written in C
+- <a href="https://github.com/Meulengracht/MollenOS"> MollenOS </a>  MollenOS/Vali is a modern operating system that is built with focus on abstraction and a modular design, allowing anyone to port it to any architecture. It currently targets the x86-32 and x86-64 platforms.
+- <a href="https://github.com/nanovms/nanos"> Nanos </a>  Unikernel that is linux-compatible, written in C
+- <a href="https://notin.tokyo/nesos/"> Nesos </a>  An OS for the Nintendo Entertainment System!
+- <a href="https://github.com/NodeOS/NodeOS"> NodeOS </a> An OS using NodeJS and Linux
+- <a href="https://github.com/opuntiaOS-Project/opuntiaOS"> Opuntia OS </a>  An operating system targeting x86, ARMv7, Aarch64.
+- <a href="https://github.com/gamozolabs/orange_slice"> Orange Slice </a>  A research kernel and hypervisor attempting to get fully deterministic emulation with minimum performance cost. Written in Rust
+- <a href="https://github.com/GandelXIV/pidi-os"> Pidi OS </a>  Independent and minimalistic OS
+- < ìahrf(https://github.com/ravynsoft/ravynos) - BSD-based OS project that aims to provide an experience like and some compatibility with macOS (formerly known as airyxOS)
 * [Redox](https://github.com/redox-os/redox) - written in Rust
 * [RustyHermit](https://github.com/hermitcore/rusty-hermit) - A Rust-based, lightweight unikernel
 * [Sanos](http://www.jbox.dk/sanos/), [GitHub](https://github.com/ringgaard/sanos) - Sanos is a minimalistic 32-bit x86 operating system kernel for network server appliances running on standard PC hardware.
