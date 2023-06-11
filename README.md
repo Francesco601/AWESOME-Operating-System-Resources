@@ -77,7 +77,7 @@ A collection of Operating System Resources for students, teachers and anyone int
 - <a href="https://doc.lagout.org/operating%20system%20/linux/Understanding%20Operating%20Systems.pdf"> Understanding Operating Systems </a> Ida M. Flynn, Ann McIver McHoes (pdf) 
 - <a href="https://edu.anarcho-copy.org/Against%20Security%20-%20Self%20Security/linux-bible-christopher-negus-10th.pdf"> Linux Bible </a> - Christopher Negus  (pdf)
 
-<strong> <H1> Articles: </H1> </strong>
+<strong> <H2> Articles: </H2> </strong>
 - <a href="https://www.researchgate.net/publication/353526819_A_Comparative_Analysis_of_Operating_System_case_study_of_Windows_Operating_and_Mackintosh_Operating_System"> A Comparative Analysis of Operating Systems: case study of Windows and Macintoch Operating Systems </a>- Maryam Sarki Abubakar (pdf)
 - <a href="https://www.researchgate.net/publication/343500639_Operating_Systems_The_Past_Present_and_Future"> Operating Systems: the past, present and future </a>  Konstantin Tsvetskov (pdf) 
 - <a href="https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf"> The Google File System  </a> - Ghemawat, Gobiof, Leung (pdf)
