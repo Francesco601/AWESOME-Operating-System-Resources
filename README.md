@@ -81,6 +81,7 @@ A collection of Operating System Resources for students, teachers and anyone int
 - <a href="https://edu.anarcho-copy.org/Against%20Security%20-%20Self%20Security/linux-bible-christopher-negus-10th.pdf"> Linux Bible </a> - Christopher Negus  (pdf)
 - <a href="https://doc.lagout.org/operating%20system%20/linux/Understanding%20Linux%20Kernel.pdf"> Understanding the Linux Kernel </a> - Daniel P. Bovet and Marco Cesati
 - <a href="https://docs.freebsd.org/en/books/design-44bsd/"> Design and Implementation of the FreeBSD kernrl </a> HTML 
+- <a href="https://mog.dog/files/SP2019/2017%20Nemeth%20Evi%20etal%20-%20UNIX%20and%20Linux%20System%20Administration%20Handbook%5B5thED%5D_Rell.pdf"> Unix and Linux System Administration Handbook </a> - Nemeth, Snyder,Hein, Whaley, Makin (pfd)
 
 <strong> <H2> Articles: </H2> </strong>
 - <a href="https://www.researchgate.net/publication/353526819_A_Comparative_Analysis_of_Operating_System_case_study_of_Windows_Operating_and_Mackintosh_Operating_System"> A Comparative Analysis of Operating Systems: case study of Windows and Macintoch Operating Systems </a>- Maryam Sarki Abubakar (pdf)
