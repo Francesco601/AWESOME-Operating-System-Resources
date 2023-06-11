@@ -38,6 +38,7 @@ A collection of Operating System Resources for students, teachers and anyone int
 - <a href="https://github.com/NodeOS/NodeOS"> NodeOS </a> An OS using NodeJS and Linux
 - <a href="https://github.com/opuntiaOS-Project/opuntiaOS"> Opuntia OS </a>  An operating system targeting x86, ARMv7, Aarch64.
 - <a href="https://github.com/gamozolabs/orange_slice"> Orange Slice </a>  A research kernel and hypervisor attempting to get fully deterministic emulation with minimum performance cost. Written in Rust
+- <a href="https://dl.acm.org/doi/10.1145/142854.142879"> OSP </a>  Both an implementation of an OS and a flexible environment for generating implementation projects. 
 - <a href="https://github.com/GandelXIV/pidi-os"> Pidi OS </a>  Independent and minimalistic OS
 - <a href="https://github.com/ravynsoft/ravynos"> Ravynos </a> -BSD-based OS project that aims to provide an experience like and some compatibility with macOS (formerly known as airyxOS)
 - <a href="https://github.com/redox-os/redox"> Redox </a> Another one written in Rust
