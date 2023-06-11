@@ -50,18 +50,18 @@ A collection of Operating System Resources for students, teachers and anyone int
 - <a href="https://github.com/theseus-os/Theseus"> Theseus </a>  A modern experimental OS written from scratch in Rust to explore novel OS structure and state management techniques.
 - <a href="https://github.com/vvaltchev/tilck"> tilck </a>  A Tiny Linux-Compatible kernel.
 - <a href="https://www.tockos.org/"> Tockos </a> A secure embedded operating system for microcontrollers
-* [Unikraft](https://github.com/unikraft/unikraft) - A modular unikernel for specialization, high efficiency, performance, and security; Linux/POSIX-compatible; mostly in C
-* [Mimosa](https://icfp20.sigplan.org/details/scheme-2020-papers/3/Running-Scheme-On-Bare-Metal-Experience-Report-), [GitHub](https://github.com/udem-dlteam/mimosa) - Research Operating System that runs Scheme on bare-metal
-* [hhuOS](https://github.com/hhuOS/hhuOS) - hhuOS is a small operating system written in C++ and Assembler for the x86-architecture. The main purpose of this project is to show how different aspects of operating systems theory can be implemented and linked together. The system is not aimed to be a full-featured operating system for daily use.
+- <a href="https://github.com/unikraft/unikraft"> Unikraft </a>  A modular unikernel for specialization, high efficiency, performance, and security; Linux/POSIX-compatible; mostly in C
+- <a href="https://icfp20.sigplan.org/details/scheme-2020-papers/3/Running-Scheme-On-Bare-Metal-Experience-Report"> Sigplan </a>  Research Operating System that runs Scheme on bare-metal
+- <a href="https://github.com/hhuOS/hhuOS">  hhuOS </a>  A small operating system written in C++ and Assembler for the x86-architecture. The main purpose of this project is to show how different aspects of operating systems theory can be implemented and linked together. The system is not aimed to be a full-featured operating system for daily use.
 
 
 <strong> <H2> Books   </H2> </strong>
 - <a href="https://drdineshsharma.com/Operating%20Systems.pdf"> Operating Systems: Three Easy Pieces </a> - Remzy H. Arpacci-Dusseau, Andrea C. Arpacci-Dusseau  (pdf)
-- <a href="https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf"> Operating System Concepts </a> Silberschatz, Galvin, Gagne (pdf)
-- <a href="https://csc-knu.github.io/sys-prog/books/Andrew%20S.%20Tanenbaum%20-%20Modern%20Operating%20Systems.pdf">  Modern Operating Systems - Tannenbaum, Bos (pdf)</a>
-- <a href="http://160592857366.free.fr/joe/ebooks/ShareData/Design%20of%20the%20Unix%20Operating%20System%20By%20Maurice%20Bach.pdf"> The Design of the Unix Operating System - Maurice J. Bach (pdf)</a>
+- <a href="https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf"> Operating System Concepts </a> - Silberschatz, Galvin, Gagne (pdf)
+- <a href="https://csc-knu.github.io/sys-prog/books/Andrew%20S.%20Tanenbaum%20-%20Modern%20Operating%20Systems.pdf">  Modern Operating Systems  </a>- - Tannenbaum, Bos (pdf)
+- <a href="http://160592857366.free.fr/joe/ebooks/ShareData/Design%20of%20the%20Unix%20Operating%20System%20By%20Maurice%20Bach.pdf"> The Design of the Unix Operating System </a>  -Maurice J. Bach (pdf)
 - <a href="https://www.infobooks.org/free-pdf-books/computers/operating-systems/"> 15+ Free Operating System Books </a> 
-- <a href="https://docplayer.net/186755178-Operating-systems-an-introduction-by-r-garg-g-verma.html"> Operating Systems: An Introduction - R. Garg, G Verna </a>
+- <a href="https://docplayer.net/186755178-Operating-systems-an-introduction-by-r-garg-g-verma.html"> Operating Systems: An Introduction  </a>  R. Garg, G Verna 
 - <a href="https://tldp.org/LDP/intro-linux/intro-linux.pdf"> Introduction to Linux: A Hands on Guide - Machtelt Garrells (pdf)</a>
 - <a href="https://www.kea.nu/files/textbooks/ospp/osppv1.pdf"> Operating Systems: Principles and Practices (Volume 1) - Anderson, Dahlin (pdf)</a>
 - <a href="https://www.kea.nu/files/textbooks/ospp/osppv2.pdf"> Operating Systems: Principles and Practices (Volume 2) - Anderson, Dahlin (pdf)</a>
