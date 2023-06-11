@@ -38,18 +38,18 @@ A collection of Operating System Resources for students, teachers and anyone int
 - <a href="https://github.com/opuntiaOS-Project/opuntiaOS"> Opuntia OS </a>  An operating system targeting x86, ARMv7, Aarch64.
 - <a href="https://github.com/gamozolabs/orange_slice"> Orange Slice </a>  A research kernel and hypervisor attempting to get fully deterministic emulation with minimum performance cost. Written in Rust
 - <a href="https://github.com/GandelXIV/pidi-os"> Pidi OS </a>  Independent and minimalistic OS
-- < ìahrf(https://github.com/ravynsoft/ravynos) - BSD-based OS project that aims to provide an experience like and some compatibility with macOS (formerly known as airyxOS)
-* [Redox](https://github.com/redox-os/redox) - written in Rust
-* [RustyHermit](https://github.com/hermitcore/rusty-hermit) - A Rust-based, lightweight unikernel
-* [Sanos](http://www.jbox.dk/sanos/), [GitHub](https://github.com/ringgaard/sanos) - Sanos is a minimalistic 32-bit x86 operating system kernel for network server appliances running on standard PC hardware.
-* [skiftOS](https://skiftos.org/), [GitHub](https://github.com/skiftOS/skift) - A simple, handmade, operating system with a graphical user interface.
-* [Sculpt OS](https://genode.org/download/sculpt) - Genode based OS
-* [soso](https://github.com/ozkl/soso) - Simple unix-like operating system written in Nasm assembly and mostly in C
-* [SynestiaOS](https://github.com/SynestiaOS/SynestiaOS) - 32/64 bit operating system written in C for arm platform
-* [Thor](https://github.com/wichtounet/thor-os) - 64bit operating system mostly written in C++
-* [Theseus](https://github.com/theseus-os/Theseus) - A modern experimental OS written from scratch in Rust to explore novel OS structure and state management techniques.
-* [tilck](https://github.com/vvaltchev/tilck) - A Tiny Linux-Compatible Kernel.
-* [tock](https://www.tockos.org/), [GitHub](https://github.com/tock/tock) - A secure embedded operating system for microcontrollers
+- <a href="https://github.com/ravynsoft/ravynos"> Ravynos </a> -BSD-based OS project that aims to provide an experience like and some compatibility with macOS (formerly known as airyxOS)
+- <a href="https://github.com/redox-os/redox"> Redox </a> Another one written in Rust
+- <a href="https://github.com/hermitcore/rusty-hermit"> Rusty Hermit </a>  A Rust-based, lightweight unikernel
+- <a href="http://www.jbox.dk/sanos"> Sanos </a> Sanos is a minimalistic 32-bit x86 operating system kernel for network server appliances running on standard PC hardware.
+- <a href="https://skiftos.org/">  Skiftos </a> A simple, handmade, operating system with a graphical user interface.
+- <a href="https://genode.org/download/sculpt"> Sculpt OS </a> - Genode based OS
+- <a href="https://github.com/ozkl/soso"> Soso  </a> Simple Unix-like operating system written in Nasm assembly and mostly in C
+- <a href="https://github.com/SynestiaOS/SynestiaOS"> Synesthia OS </a>  32/64 bit operating system written in C for arm platform
+- <a href="https://github.com/wichtounet/thor-os"> Thor OS </a> - 64bit operating system mostly written in C++
+- <a href="https://github.com/theseus-os/Theseus"> Theseus </a>  A modern experimental OS written from scratch in Rust to explore novel OS structure and state management techniques.
+- <a href="https://github.com/vvaltchev/tilck"> tilck </a>  A Tiny Linux-Compatible kernel.
+- <a href="https://www.tockos.org/"> Tockos </a> A secure embedded operating system for microcontrollers
 * [Unikraft](https://github.com/unikraft/unikraft) - A modular unikernel for specialization, high efficiency, performance, and security; Linux/POSIX-compatible; mostly in C
 * [Mimosa](https://icfp20.sigplan.org/details/scheme-2020-papers/3/Running-Scheme-On-Bare-Metal-Experience-Report-), [GitHub](https://github.com/udem-dlteam/mimosa) - Research Operating System that runs Scheme on bare-metal
 * [hhuOS](https://github.com/hhuOS/hhuOS) - hhuOS is a small operating system written in C++ and Assembler for the x86-architecture. The main purpose of this project is to show how different aspects of operating systems theory can be implemented and linked together. The system is not aimed to be a full-featured operating system for daily use.
