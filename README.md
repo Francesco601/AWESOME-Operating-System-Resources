@@ -1,11 +1,11 @@
 # Operating-System-Resources
 A collection of Operating System Resources for students, teachers and anyone interested.
 <strong> <H2> Operating Systems with source code or open source</H2> </strong>
-- <a href="http://9front.org"> 9Front </a> A fork of Plan 9, designed for distributed, networked computing. 
+- <a href="http://9front.org"> 9front </a> A fork of Plan 9, designed for distributed, networked computing. 
 - <a href="https://github.com/ackOS-project/ackOS">  AckOS </a> A simple 64-bit operating system. 
 - <a href="https://aros.sourceforge.io/">  Aros Research Operating System </a>  A lightweight, efficient, and flexible desktop operating system, designed to help you make the most of your computer. It's an independent, portable and free project, aiming at being compatible with AmigaOS at the API level 
 - <a href="https://github.com/Bone-Project/BoneOS">  BoneOS. </a> An OS for everyone built by everyone.
-- <a href="https://github.com/bottlerocket-os/bottlerocket">  Bottletocket </a> A Linux-based OS meant for hosting containers.
+- <a href="https://github.com/bottlerocket-os/bottlerocket">  Bottlerocket </a> A Linux-based OS meant for hosting containers.
 - <a href="https://github.com/opencreeck/Cadex-OS-Official"> Cadex-OS  </a> A simple operating system kernel originally made by Prof. Douglas Thain at the University of Notre Dame and students
 - <a href="http://www.chibios.org/">  Chibios </a>  A complete development environment for embedded applications including RTOS, an HAL, peripheral drivers, support files and tools
 - <a href="https://lsub.org/ls/clive.html"> Clive </a> A unikernel OS inspired by Plan9 and Nix developed at *Universidad Rey Juan Carlos of Madrid*
@@ -13,7 +13,7 @@ A collection of Operating System Resources for students, teachers and anyone int
 - <a href="https://dahliaos.io"> dahliaOS </a> is a modern, secure, lightweight and responsive operating system, combining the best of GNU/Linux and Fuchsia OS.
 - <a href="https://github.com/icexin/eggos"> EGGOS </a> A Go unikernel running on x86 bare metal
 - <a href="https://embox.github.io/"> embox </a>  Configurable operating system kernel designed for resource constrained and embedded systems.
-- <a href="https://git.codingworkshop.eu.org/xt-sys/exectos"> - ExectOS </a> is a modern, EFI-enabled, general purpose operating system written from scratch and implementing the XT architecture. It runs on x86 and x86_64 architectures and provides NT drivers compatibility layer.
+- <a href="https://git.codingworkshop.eu.org/xt-sys/exectos">  ExectOS </a> is a modern, EFI-enabled, general purpose operating system written from scratch and implementing the XT architecture. It runs on x86 and x86_64 architectures and provides NT drivers compatibility layer.
 - <a href="https://www.fiwix.org/"> Fiwix </a>  A UNIX-like kernel for the i386 architecture.
 - <a href="(https://aws.amazon.com/freertos/"> Freertos </a>  IoT operating system for microcontrollers, by Amazon.
 - <a href="https://genode.org/">  Genode </a>  An FOSS operating system framework consisting of a microkernel abstraction layer and a collection of userspace components
@@ -24,8 +24,8 @@ A collection of Operating System Resources for students, teachers and anyone int
 - <a href="https://github.com/mszoek/helium"> Helium </a>  A BSD-based OS project that aims to provide an experience like and some compatibility with macOS
 - <a href="https://hubris.oxide.computer/"> Hubris </a>  An operating system for microcontrollers developed by Oxide Computer Company and written in Rust
 - <a href="https://github.com/mntmn/interim">  Interim </a> Minimalist OS with concepts from Lisp machines and Plan9
-* [Jehanne](http://jehanne.io/), [GitHub](https://github.com/JehanneOS/jehanne/) - OS inspired by Plan9, 9front and Harvey OS
-* [KnightOS](https://github.com/KnightOS/KnightOS) - for z80 calculators
+- <a href="http://jehanne.io/"> Jehanne </a>  OS inspired by Plan9, 9front and Harvey OS
+- <a href="https://github.com/KnightOS/KnightOS"> KnightOS </a> An OS for z80 calculators
 * [L4re](https://github.com/kernkonzept/l4re-core) - Operating system and hypervisor for security/safety-critical and virtualization-enabled applications.
 * [managarm](https://github.com/managarm/managarm) - Pragmatic microkernel-based OS with fully asynchronous I/O
 * [MentOS](https://github.com/mentos-team/MentOS) - An educational 32-bit linux-like Operating System.
