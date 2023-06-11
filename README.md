@@ -22,8 +22,8 @@ A collection of Operating System Resources for students, teachers and anyone int
 - <a href="https://harvey-os.org/">  HarveyOS </a> A distributed operating system
 - <a href="https://github.com/HelenOS/helenos"> HelenOS </a>  A multikernel multiserver OS
 - <a href="https://github.com/mszoek/helium"> Helium </a>  A BSD-based OS project that aims to provide an experience like and some compatibility with macOS
-- <a href="https://hubris.oxide.computer/"> -Hubris </a>  An operating system for microcontrollers developed by Oxide Computer Company and written in Rust
-* [Interim](https://github.com/mntmn/interim) - Minimalist OS with concepts from Lisp machines and Plan9
+- <a href="https://hubris.oxide.computer/"> Hubris </a>  An operating system for microcontrollers developed by Oxide Computer Company and written in Rust
+- <a href="https://github.com/mntmn/interim">  Interim </a> Minimalist OS with concepts from Lisp machines and Plan9
 * [Jehanne](http://jehanne.io/), [GitHub](https://github.com/JehanneOS/jehanne/) - OS inspired by Plan9, 9front and Harvey OS
 * [KnightOS](https://github.com/KnightOS/KnightOS) - for z80 calculators
 * [L4re](https://github.com/kernkonzept/l4re-core) - Operating system and hypervisor for security/safety-critical and virtualization-enabled applications.
