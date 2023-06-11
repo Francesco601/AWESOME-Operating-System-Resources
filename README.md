@@ -3,9 +3,9 @@ A collection of Operating System Resources for students, teachers and interested
 <strong> <H1> Opearating Systems with source code </H1> </strong>
 - <a href="http://9front.org"> 9Front </a> is a fork of Plan 9, designed for distributed, networked computing. 
 - <a href="https://github.com/ackOS-project/ackOS">  AckOS </a> A simple 64-bit operating system. 
-- <a href="https://aros.sourceforge.io/"> - Aros Research Operating System </a>  A lightweight, efficient, and flexible desktop operating system, designed to help you make the most of your computer. It's an independent, portable and free project, aiming at being compatible with AmigaOS at the API level </a>
+- <a href="https://aros.sourceforge.io/">  Aros Research Operating System </a>  A lightweight, efficient, and flexible desktop operating system, designed to help you make the most of your computer. It's an independent, portable and free project, aiming at being compatible with AmigaOS at the API level 
 - <a href="https://github.com/Bone-Project/BoneOS">  BoneOS. </a> An OS for everyone built by everyone.
-* [Bottlerocket OS](https://github.com/bottlerocket-os/bottlerocket)- Linux-based OS meant for hosting containers.
+- <a href="https://github.com/bottlerocket-os/bottlerocket">  Bottletocket </a> A Linux-based OS meant for hosting containers.
 * *[broken]* [Cadex OS](https://github.com/opencreeck/Cadex-OS-Official) - a simple operating system kernel originally made by Prof. Douglas Thain at the University of Notre Dame and students
 * [ChibiOS](http://www.chibios.org/) - a complete development environment for embedded applications including RTOS, an HAL, peripheral drivers, support files and tools
 * [Clive](https://lsub.org/ls/clive.html) - A unikernel OS inspired by Plan9 and Nix developed at *Universidad Rey Juan Carlos of Madrid*
