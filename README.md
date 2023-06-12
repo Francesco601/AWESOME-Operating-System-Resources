@@ -106,8 +106,10 @@ A collection of Operating System Resources for students, teachers and anyone int
 <strong> <H2> Tutorials </H2> </strong>
 - <a href="https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf"> Writing a Simple Operating System from Scratch </a> - Nick Blundell
 - <a href="https://theogill.medium.com/creating-a-kernel-from-scratch-1a1aa569780f"> Creating a Kernel from Scratch </a> -Theo
-
-
+- <a href="https://www.tutorialspoint.com/operating_system/"> Learn Operating Systems </a> Tutorialspoint 
+- <a href="https://www.guru99.com/os-tutorial.html"> Operating System Tutorial </a> Guru99
+- <a href="https://www.geeksforgeeks.org/operating-systems/"> Operating System Tutorial </a> - GeeksforGeeks
+- 
 
 
 <strong> <H2> Videos </H2> </strong>
