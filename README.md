@@ -67,7 +67,7 @@ A collection of Operating System Resources for students, teachers and anyone int
 - <a href="http://freedos.org/"> FreeDoS  </a>  DOS compatible OS
 - <a href="https://github.com/haiku/haiku"> Haiku </a> A BeOS inspired OS
 - <a href="https://github.com/torvalds/linux"> -Linux </a> The Linux kernel
-- <a href="https://www.minix3.org/">  Minix3 </a>- A Unix-like operating system based on a microkernel architecture developed by Andrew Tannenbaum for both education and professional purposes.
+- <a href="https://www.minix3.org/">  Minix3 </a>- A Unix-like operating system based on a microkernel architecture developed by Andrew Tannenbaum for both educational and professional purposes.
 - <a href="https://github.com/microsoft/MS-DOS"> MS-DOS </a> - The original sources of MS-DOS 1.25 and 2.0
 - <a href="https://www.netbsd.org/"> NetBSD </a>  Unix-like operating system also based on BSD
 - <a href="https://www.openbsd.org/"> OpenBSD </a> Another Unix-like operating system based on BSD with a reputation for excellence in security
