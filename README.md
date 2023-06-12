@@ -112,7 +112,7 @@ A collection of Operating System Resources for students, teachers and anyone int
 - <a href="https://www.codecademy.com/learn/fundamentals-of-operating-systems"> Fundamentals of Operating Systems </a> - Code Academy
 - <a href=" https://wiki.osdev.org/Main_Page"> OS Development Wiki </a> OSDEV.org covers all aspects of OS creation and design
 - <a href="https://littleosbook.github.io/"> The Little Book about OS development </a> Erik Helin, Adam Renberg 
-
+- <a href="https://web.archive.org/web/20160412174753/http://www.jamesmolloy.co.uk/tutorial_html/index.html"> JamesM's kernel development tutorial </a>
 
 <strong> <H2> Videos </H2> </strong>
 - <a href="https://www.udacity.com/course/introduction-to-operating-systems--ud923"> Udacity course; Introduction to Operating Systems </a>
