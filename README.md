@@ -71,9 +71,9 @@ A collection of Operating System Resources for students, teachers and anyone int
 - <a href="https://github.com/microsoft/MS-DOS"> MS-DOS </a> - The original sources of MS-DOS 1.25 and 2.0
 - <a href="https://www.netbsd.org/"> NetBSD </a>  Unix-like operating system also based on BSD
 - <a href="https://www.openbsd.org/"> OpenBSD </a> Another Unix-like operating system based on BSD with a reputation for excellence in security
-* [Plan 9 from Bell Labs](http://9p.io/plan9/) - An OS from the creators of Unix, extending the Unix philosophy of "everything is a file" with a network-centric file system, namespaces and distributed computing. 
-* [ReactOS](https://reactos.org/) - A free Windows-compatible Operating System 
-* [SystemV](https://archive.org/details/ATTUNIXSystemVRelease4Version2) - AT&T UNIX System V Source Code
+- <a href="http://9p.io/plan9/"> Plan 9 from Bell Lanbs </a> - An OS from the creators of Unix, extending the Unix philosophy of "everything is a file" with a network-centric file system, namespaces and distributed computing. 
+- <a href="https://reactos.org/"> ReactOS </a> A free Windows-compatible Operating System 
+- <a href="https://archive.org/details/ATTUNIXSystemVRelease4Version2"> SystemV </a>- the classic AT&T UNIX System V Source Code
 
 <strong> <H2> Books   </H2> </strong>
 - <a href="https://drdineshsharma.com/Operating%20Systems.pdf"> Operating Systems: Three Easy Pieces </a> - Remzy H. Arpacci-Dusseau, Andrea C. Arpacci-Dusseau  (pdf)
