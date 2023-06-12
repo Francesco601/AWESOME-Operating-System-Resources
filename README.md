@@ -53,6 +53,7 @@ A collection of Operating System Resources for students, teachers and anyone int
 - <a href="https://github.com/ozkl/soso"> Soso  </a> Simple Unix-like operating system written in Nasm assembly and mostly in C
 - <a href="http://syllable.metaproject.frl/"> Syllable operating system </a> Designed in the tradition of the Amiga and BeOS. but built using many parts from the GNU project and Linux.
 - <a href="https://github.com/SynestiaOS/SynestiaOS"> Synesthia OS </a>  32/64 bit operating system written in C for arm platform
+- <a href="https://templeos.org/"> TempleOS </a> A Christian themed open-source OS written entirely in x86 Assembly language. 
 - <a href="https://github.com/wichtounet/thor-os"> Thor OS </a> - 64bit operating system mostly written in C++
 - <a href="https://github.com/theseus-os/Theseus"> Theseus </a>  A modern experimental OS written from scratch in Rust to explore novel OS structure and state management techniques.
 - <a href="https://github.com/vvaltchev/tilck"> tilck </a>  A Tiny Linux-Compatible kernel.
