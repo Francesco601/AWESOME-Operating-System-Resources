@@ -61,18 +61,18 @@ A collection of Operating System Resources for students, teachers and anyone int
 - <a href="https://icfp20.sigplan.org/details/scheme-2020-papers/3/Running-Scheme-On-Bare-Metal-Experience-Report"> Sigplan </a>  Research Operating System that runs Scheme on bare-metal
 - <a href="https://github.com/hhuOS/hhuOS">  hhuOS </a>  A small operating system written in C++ and Assembler for the x86-architecture. 
  
- <strong><H2> Popular Operating Systems </H2>> </strong>
+ <strong><H2> Popular Operating Systems </H2></strong>
 - <a href="https://github.com/apple/darwin-xnu"> Darwin XNU </a>- The XNU kernel source code for use in MacOS and iOS
 - <a href="https://freebsd.org/"> FreeBSD </a>,  - Unix-like operating system based on BSD (Berkeley Software Distribution)
 - <a href="http://freedos.org/"> FreeDoS  </a>  DOS compatible OS
-* [Haiku](https://github.com/haiku/haiku) - BeOS inspired OS
-* [Linux](https://github.com/torvalds/linux) - Linux kernel
+- <a href="https://github.com/haiku/haiku"> Haiku </a> A BeOS inspired OS
+- <a href="https://github.com/torvalds/linux"> -Linux </a> The Linux kernel
 * [Minix](https://www.minix3.org/)- Unix-like operating system based on a microkernel architecture
 * [MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25 and 2.0
-* [NetBSD](https://www.netbsd.org/), [Github](https://github.com/netbsd/src) - Unix-like operating system based on the BSD
-* [OpenBSD](https://www.openbsd.org/), [Github](https://github.com/openbsd/src) - Unix-like operating system based on the BSD
+* [NetBSD](https://www.netbsd.org/)- Unix-like operating system based on the BSD
+* [OpenBSD](https://www.openbsd.org/)- Unix-like operating system based on the BSD
 * [Plan 9 from Bell Labs](http://9p.io/plan9/) - An OS from the creators of Unix, extending the Unix philosophy of "everything is a file" with a network-centric file system, namespaces and distributed computing. 
-* [ReactOS](https://reactos.org/), [Github](https://github.com/reactos/reactos) - A free Windows-compatible Operating System 
+* [ReactOS](https://reactos.org/) - A free Windows-compatible Operating System 
 * [SystemV](https://archive.org/details/ATTUNIXSystemVRelease4Version2) - AT&T UNIX System V Source Code
 
 <strong> <H2> Books   </H2> </strong>
