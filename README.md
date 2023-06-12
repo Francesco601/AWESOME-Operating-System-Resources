@@ -59,9 +59,9 @@ A collection of Operating System Resources for students, teachers and anyone int
 - <a href="https://www.tockos.org/"> Tockos </a> A secure embedded operating system for microcontrollers
 - <a href="https://github.com/unikraft/unikraft"> Unikraft </a>  A modular unikernel for specialization, high efficiency, performance, and security; Linux/POSIX-compatible; mostly in C
 - <a href="https://icfp20.sigplan.org/details/scheme-2020-papers/3/Running-Scheme-On-Bare-Metal-Experience-Report"> Sigplan </a>  Research Operating System that runs Scheme on bare-metal
-- <a href="https://github.com/hhuOS/hhuOS">  hhuOS </a>  A small operating system written in C++ and Assembler for the x86-architecture. The main purpose of this project is to show how different aspects of operating systems theory can be implemented and linked together. The system is not aimed to be a full-featured operating system for daily use.
-
-- <strong><H2> Popular Operating Systems </H2>> </strong>
+- <a href="https://github.com/hhuOS/hhuOS">  hhuOS </a>  A small operating system written in C++ and Assembler for the x86-architecture. 
+ 
+ <strong><H2> Popular Operating Systems </H2>> </strong>
 - <a href="https://github.com/apple/darwin-xnu"> Darwin XNU </a>- The XNU kernel source code for use in MacOS and iOS
 - <a href="https://freebsd.org/"> FreeBSD </a>,  - Unix-like operating system based on BSD (Berkeley Software Distribution)
 - <a href="http://freedos.org/"> FreeDoS  </a>  DOS compatible OS
