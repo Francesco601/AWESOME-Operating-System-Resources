@@ -92,7 +92,7 @@ A collection of Operating System Resources for students, teachers and anyone int
 - [Operating Systems: From 0 to 1](https://tuhdo.github.io/os01/) - Bootstrap yourself to write an OS from scratch by Do Hoang Tu
 
 
-<strong> <H2> Articles: </H2> </strong>
+<strong> <H2> Articles and Papers: </H2> </strong>
 - <a href="https://www.researchgate.net/publication/353526819_A_Comparative_Analysis_of_Operating_System_case_study_of_Windows_Operating_and_Mackintosh_Operating_System"> A Comparative Analysis of Operating Systems: case study of Windows and Macintoch Operating Systems </a>- Maryam Sarki Abubakar (pdf)
 - <a href="https://www.researchgate.net/publication/343500639_Operating_Systems_The_Past_Present_and_Future"> Operating Systems: the past, present and future </a>  Konstantin Tsvetskov (pdf) 
 - <a href="https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf"> The Google File System  </a> - Ghemawat, Gobiof, Leung (pdf)
@@ -102,6 +102,13 @@ A collection of Operating System Resources for students, teachers and anyone int
 - <a href="https://dada.cs.washington.edu/smt/papers/os.pdf"> An Analysis of Operatins System Behavior on a Simultaneous Mulitthreaded Architecture </a>  -Redston, Eggers, Levy 
 - <a href="https://arxiv.org/pdf/1205.6423.pdf"> Proposed Challenges and Areas of Concern in Operating System Rsearch and Development </a> - Plawam Kumar Rath, Anil G.N. 
 - <a href="https://dl.acm.org/doi/abs/10.1145/800217.806621"> The Distrubuted V Kernek and Its Peformance for Diskless Workstations </a> -David R. Cherlton, Willy Zwanepoel 
+
+<strong> <H2> Tutorials </H2> </strong>
+- <a href="https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf"> Writing a Simple Operating System from Scratch </a> - Nick Blundell
+
+
+
+
 
 <strong> <H2> Videos </H2> </strong>
 - <a href="https://www.udacity.com/course/introduction-to-operating-systems--ud923"> Udacity course; Introduction to Operating Systems </a>
