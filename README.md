@@ -67,10 +67,10 @@ A collection of Operating System Resources for students, teachers and anyone int
 - <a href="http://freedos.org/"> FreeDoS  </a>  DOS compatible OS
 - <a href="https://github.com/haiku/haiku"> Haiku </a> A BeOS inspired OS
 - <a href="https://github.com/torvalds/linux"> -Linux </a> The Linux kernel
-* [Minix](https://www.minix3.org/)- Unix-like operating system based on a microkernel architecture
-* [MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25 and 2.0
-* [NetBSD](https://www.netbsd.org/)- Unix-like operating system based on the BSD
-* [OpenBSD](https://www.openbsd.org/)- Unix-like operating system based on the BSD
+- <a href="https://www.minix3.org/">  Minix3 </a>- A Unix-like operating system based on a microkernel architecture developed by Andrew Tannenbaum for both education and professional purposes.
+- <a href="https://github.com/microsoft/MS-DOS"> MS-DOS </a> - The original sources of MS-DOS 1.25 and 2.0
+- <a href="https://www.netbsd.org/"> NetBSD </a>  Unix-like operating system also based on BSD
+- <a href="https://www.openbsd.org/"> OpenBSD </a> Another Unix-like operating system based on BSD with a reputation for excellence in security
 * [Plan 9 from Bell Labs](http://9p.io/plan9/) - An OS from the creators of Unix, extending the Unix philosophy of "everything is a file" with a network-centric file system, namespaces and distributed computing. 
 * [ReactOS](https://reactos.org/) - A free Windows-compatible Operating System 
 * [SystemV](https://archive.org/details/ATTUNIXSystemVRelease4Version2) - AT&T UNIX System V Source Code
@@ -126,6 +126,21 @@ A collection of Operating System Resources for students, teachers and anyone int
 - <a href=" https://wiki.osdev.org/Main_Page"> OS Development Wiki </a> OSDEV.org covers all aspects of OS creation and design
 - <a href="https://littleosbook.github.io/"> The Little Book about OS development </a> Erik Helin, Adam Renberg 
 - <a href="https://web.archive.org/web/20160412174753/http://www.jamesmolloy.co.uk/tutorial_html/index.html"> JamesM's kernel development tutorial </a>
+* [Baking Pi – Operating Systems Development](https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/index.html) by University of Cambridge
+* [Build a minimal multi-tasking OS kernel for ARM from scratch](https://github.com/jserv/mini-arm-os) by Jim Huang
+* [Bran's Kernel Development](http://www.osdever.net/bkerndev/Docs/title.htm) by Brandon Friesen
+* [How to write a Linux kernel patch and submit it](https://github.com/gregkh/kernel-tutorial) by Greg Kroah-Hartman
+* [Presentation on how the Linux kernel is developed](https://github.com/gregkh/kernel-development) by Greg Kroah-Hartman
+* [os-tutorial - How to create an OS from scratch](https://github.com/cfenollosa/os-tutorial) by Carlos Fenollosa
+* [Roll your own toy UNIX-clone OS](http://jamesmolloy.co.uk/tutorial_html/)  by James Molloy
+* [Writing an OS in Rust](https://os.phil-opp.com/) by Philipp Oppermann
+* [Making a RISC-V Operating System using Rust](http://osblog.stephenmarz.com/) by Stephen Marz
+* [Operating systems development for Dummies](https://medium.com/@lduck11007/operating-systems-development-for-dummies-3d4d786e8ac) by Leo Whitehead
+* [Kernels 101 – Let’s write a Kernel](https://arjunsreedharan.org/post/82710718100/kernels-101-lets-write-a-kernel) by Arjun Sreedharan
+* [Kernels 201 - Let’s write a Kernel with keyboard and screen support](https://arjunsreedharan.org/post/99370248137/kernels-201-lets-write-a-kernel-with-keyboard) by Arjun Sreedharan
+* [Writing a Tiny x86 Bootloader](https://www.joe-bergeron.com/posts/Writing%20a%20Tiny%20x86%20Bootloader/) by Joe Bergeron
+* [Writing a Bootloader](http://3zanders.co.uk/2017/10/13/writing-a-bootloader/) by Alex Parker
+* [Learning operating system development using Linux kernel and Raspberry Pi](https://github.com/s-matyukevich/raspberry-pi-os)
 
 <strong> <H2> Videos </H2> </strong>
 - <a href="https://www.udacity.com/course/introduction-to-operating-systems--ud923"> Udacity course; Introduction to Operating Systems </a>
