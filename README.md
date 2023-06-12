@@ -1,7 +1,7 @@
 # Operating-System-Resources
 A collection of Operating System Resources for students, teachers and anyone interested. I started this with the idea of collecting as many Internet resources as possible on the topic of Operating Systems. I did not realize that there were others
 who had already done something similar and had gotten a lot further than I could in one or two days. I have taken some of their links and included them here. I refuse to merge my links with the others because I have had bad experiences so far in that regard. I will continue what I started and maybe it will be of use to someone. 
-<strong> <H2> Operating Systems with source code or open source</H2> </strong>
+<strong> <H2> Open Source Operating Systems </H2> </strong>
 - <a href="http://9front.org"> 9front </a> A fork of Plan 9, designed for distributed, networked computing. 
 - <a href="https://github.com/ackOS-project/ackOS">  AckOS </a> A simple 64-bit operating system. 
 - <a href="https://www.amigaos.net/"> Amiga OS 4.1 </a> The new final edition extends Amiga 4.1 functionality with web browsing, etc..
