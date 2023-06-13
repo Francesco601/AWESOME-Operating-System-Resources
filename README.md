@@ -149,3 +149,4 @@ A collection of Operating System Resources for students, teachers and anyone int
 - <a href="https://www.youtube.com/watch?v=xy4wKdArpWw"> Operating System Course for Beginners: ClayDesk E-Learning </a>
 - <a href="https://ocw.mit.edu/courses/6-828-operating-system-engineering-fall-2012/"> Operating System Engineering: MIT OpenCourseware </a>
 - <a href="https://www.youtube.com/playlist?list=PLdo5W4Nhv31a5ucW_S1K3-x6ztBRD-PNa"> Operating Systems: Jenny's Lectures in CS IT  (full playlist) </a> 
+- <a href="https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O"> Introduction to Operatins Systenms </a> NESO Academy (full playlist) </a>
