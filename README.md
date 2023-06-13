@@ -149,4 +149,8 @@ A collection of Operating System Resources for students, teachers and anyone int
 - <a href="https://www.youtube.com/watch?v=xy4wKdArpWw"> Operating System Course for Beginners: ClayDesk E-Learning </a>
 - <a href="https://ocw.mit.edu/courses/6-828-operating-system-engineering-fall-2012/"> Operating System Engineering: MIT OpenCourseware </a>
 - <a href="https://www.youtube.com/playlist?list=PLdo5W4Nhv31a5ucW_S1K3-x6ztBRD-PNa"> Operating Systems: Jenny's Lectures in CS IT  (full playlist) </a> 
-- <a href="https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O"> Introduction to Operatins Systenms </a> NESO Academy (full playlist) </a>
+- <a href="https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O"> Introduction to Operatins Systenms  NESO Academy (full playlist) </a>
+
+<strong><H2> Linux specific material </H2> </strong>
+- <a href="https://learning.lpi.org/en/learning-materials/learning-materials/?fbclid=IwAR3GdqKoicbITwndq9QYsM2llKXRgypbETJnlyUUo8tUniwx34RGdh5_iho"> LPI Learning </a>  Free teaching materials for teachers and students developed by Linux Professional Institute. They serve as preparation for the exams and are continuously expanded and updated. 
+
