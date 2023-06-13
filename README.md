@@ -156,3 +156,4 @@ A collection of Operating System Resources for students, teachers and anyone int
 - <a href="https://sysprog21.github.io/lkmpg/"> Linux Kernel Module Programming Guide </a> - Salzman, Buridan et al
 - <a href="https://www.kernel.org/doc/html/latest/"> The Linux Kernel Documentation </a> Top level of the kernel documentation tree 
 - <a href="http://www.oldlinux.org/"> Old Linux </a> A heavily commented Old Linux kernel source 
+- <a href="https://makelinux.github.io/kernel/map/"> bootlin's interactive kernel map </a> 
