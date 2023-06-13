@@ -153,4 +153,4 @@ A collection of Operating System Resources for students, teachers and anyone int
 
 <strong><H2> Linux specific material </H2> </strong>
 - <a href="https://learning.lpi.org/en/learning-materials/learning-materials/?fbclid=IwAR3GdqKoicbITwndq9QYsM2llKXRgypbETJnlyUUo8tUniwx34RGdh5_iho"> LPI Learning </a>  Free teaching materials for teachers and students developed by Linux Professional Institute. They serve as preparation for the exams and are continuously expanded and updated. 
-
+- <a href="https://sysprog21.github.io/lkmpg/"> Linux Kernel Module Programming Guide </a> - Salzman, Buridan et al
