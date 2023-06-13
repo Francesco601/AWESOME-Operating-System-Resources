@@ -124,7 +124,7 @@ A collection of Operating System Resources for students, teachers and anyone int
 - <a href="https://www.guru99.com/os-tutorial.html"> Operating System Tutorial </a> Guru99
 - <a href="https://www.geeksforgeeks.org/operating-systems/"> Operating System Tutorial </a> - GeeksforGeeks
 - <a href="https://www.codecademy.com/learn/fundamentals-of-operating-systems"> Fundamentals of Operating Systems </a> - Code Academy
-- <a href=" https://wiki.osdev.org/Main_Page"> OS Development Wiki </a> OSDEV.org covers all aspects of OS creation and design
+- <a href="https://wiki.osdev.org/Main_Page"> OS Development Wiki </a> OSDEV.org covers all aspects of OS creation and design
 - <a href="https://littleosbook.github.io/"> The Little Book about OS development </a> Erik Helin, Adam Renberg 
 - <a href="https://web.archive.org/web/20160412174753/http://www.jamesmolloy.co.uk/tutorial_html/index.html"> JamesM's kernel development tutorial </a>
 * [Baking Pi – Operating Systems Development](https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/index.html) by University of Cambridge
