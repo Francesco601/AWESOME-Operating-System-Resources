@@ -142,6 +142,8 @@ A collection of Operating System Resources for students, teachers and anyone int
 * [Writing a Tiny x86 Bootloader](https://www.joe-bergeron.com/posts/Writing%20a%20Tiny%20x86%20Bootloader/) by Joe Bergeron
 * [Writing a Bootloader](http://3zanders.co.uk/2017/10/13/writing-a-bootloader/) by Alex Parker
 * [Learning operating system development using Linux kernel and Raspberry Pi](https://github.com/s-matyukevich/raspberry-pi-os)
+- <a href="https://osblog.stephenmarz.com/"> Making a RISC V Operating System Using RUST </a> Stephen Marz blog
+
 
 <strong> <H2> Videos </H2> </strong>
 - <a href="https://www.udacity.com/course/introduction-to-operating-systems--ud923"> Udacity course; Introduction to Operating Systems </a>
