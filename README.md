@@ -9,7 +9,7 @@ A collection of Operating System Resources for students, teachers and anyone int
 - <a href="https://github.com/bottlerocket-os/bottlerocket">  Bottlerocket </a> A Linux-based OS meant for hosting containers.
 - <a href="https://github.com/opencreeck/Cadex-OS-Official"> Cadex-OS  </a> A simple operating system kernel originally made by Prof. Douglas Thain at the University of Notre Dame and students
 - <a href="http://www.chibios.org/">  Chibios </a>  A complete development environment for embedded applications including RTOS, an HAL, peripheral drivers, support files and tools
-- <a href="https://lsub.org/ls/clive.html"> Clive </a> A unikernel OS inspired by Plan9 and Nix developed at *Universidad Rey Juan Carlos of Madrid*
+- <a href="https://lsub.org/ls/clive.html"> Clive </a> A unikernel OS inspired by Plan9 and Nix developed at Universidad Rey Juan Carlos of Madrid
 - <a href="https://collapseos.org/"> Collapse OS </a> Bootstrap post-collapse technology
 - <a href="https://dahliaos.io"> dahliaOS </a> is a modern, secure, lightweight and responsive operating system, combining the best of GNU/Linux and Fuchsia OS.
 - <a href="https://github.com/icexin/eggos"> EGGOS </a> A Go unikernel running on x86 bare metal
@@ -100,8 +100,8 @@ A collection of Operating System Resources for students, teachers and anyone int
 - <a href="https://intermezzos.github.io/book/">  Intermezzos </a>- A follow along book to build IntermezzosOS in Rust
 - <a href="http://www.kroah.com/lkn/"> Linux in a Nutshell </a> - Greg Kroah Hartman . Covers the entire range of kernel tasks, available as chapters or one PDF
 - <a href="http://littleosbook.github.io/"> The Little Book about OS Development </a> by Erik Helin and Adam Renberg
-- [Think OS](http://greenteapress.com/thinkos/) - A Brief Introduction to Operating Systems by Allen B. Downey
-- [Operating System Development Series](http://www.brokenthorn.com/Resources/OSDevIndex.html) - OS from the ground up in C
+- <a href="http://greenteapress.com/thinkos/"> Think OS </a>   A Brief Introduction to Operating Systems by Allen B. Downey
+- <a href="http://www.brokenthorn.com/Resources/OSDevIndex.html"> Operating System Develpment Series </a>  OS from the ground up in C
 - [xv6: a simple, Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2019/xv6/book-riscv-rev0.pdf) - Book for Xv6
 - [Operating Systems: From 0 to 1](https://tuhdo.github.io/os01/) - Bootstrap yourself to write an OS from scratch by Do Hoang Tu
 
