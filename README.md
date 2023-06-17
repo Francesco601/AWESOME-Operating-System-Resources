@@ -6,6 +6,7 @@
 <h4 align="center">
     <p><a href="https://twitter.com/etiennejcb/">Animation by Étienne Jacob</a></p>
 </h4>
+
 A collection of Operating System Resources for students, teachers and anyone interested. 
 <strong> <H2> Open Source Operating Systems </H2> </strong>
 - <a href="http://9front.org"> 9front </a> A fork of Plan 9, designed for distributed, networked computing. 
