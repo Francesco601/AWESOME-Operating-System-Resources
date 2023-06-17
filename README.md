@@ -69,6 +69,65 @@ A collection of Operating System Resources for students, teachers and anyone int
 - <a href="https://github.com/unikraft/unikraft"> Unikraft </a>  A modular unikernel for specialization, high efficiency, performance, and security; Linux/POSIX-compatible; mostly in C
 - <a href="https://icfp20.sigplan.org/details/scheme-2020-papers/3/Running-Scheme-On-Bare-Metal-Experience-Report"> Sigplan </a>  Research Operating System that runs Scheme on bare-metal
 - <a href="https://github.com/hhuOS/hhuOS">  hhuOS </a>  A small operating system written in C++ and Assembler for the x86-architecture. 
+
+## Hobby 
+* [AlmeidaOS](https://github.com/PauloMigAlmeida/AlmeidaOS) - x86-64 OS with its own bootloader, scheduler and limited libc all written from scratch
+* [AquilaOS](https://aquilaos.com) - Operating System that is designed to be POSIX compliant and mostly ISA transparent
+* [Animal](https://github.com/frednora/animal) - 32 bit multithreaded operating system (formerly Gramado)
+* [Basekernel](https://github.com/dthain/basekernel) - A simple OS kernel for research, teaching, and fun
+* [Brutal](https://brutal-org.netlify.app/), [GitHub](https://github.com/brutal-org/brutal) - An operating system inspired by brutalist design that combines the ideals of UNIX from the 1970s with modern technology and engineering
+* [Cyjon](https://github.com/CorruptedByCPU/Cyjon/) - pure x64 assembly language operating system (related to [Fern-Night](https://github.com/CorruptedByCPU/Fern-Night/) project).
+* [DragonOS](https://github.com/fslongjin/DragonOS) - An x86-64 OS build from scratch.
+* [Dreamos64](https://github.com/dreamos82/Dreamos64) - An x86-64 hobby os built from scratch
+* [duckOS](https://github.com/byteduck/duckOS) - A hobby UNIX-like OS with a graphical window manager for x86 computers.
+* [emerald](https://github.com/Abb1x/emerald) - An operating system kernel written for fun in C
+* [Fern-Night](https://github.com/CorruptedByCPU/Fern-Night/) - C language operating system (related to [Cyjon](https://github.com/CorruptedByCPU/Cyjon/) project).
+* [Gloire](https://github.com/streaksu/Gloire) - An OS built with the [Ironclad](https://www.nongnu.org/ironclad/) kernel (a partially formally verified kernel with a small footprint for general-purpose and embedded OSes, written in SPARK and Ada) and GNU tools.
+* [HalideOS](https://dsc-kiit.github.io/project-halide/) - experimental operating system written entirely from scratch.
+* [hydrogen](https://github.com/mszoek/hydrogen) - toy OS. 64-bit, preemptive multitasking kernel supporting EFI, PCIe, SATA, framebuffer graphics mode, HFS+.
+* [JSD-OS](https://github.com/pgrAm/JSD-OS) - A small operating system for 32 bit x86.
+* [KripayaOS](https://github.com/Kridar/KripayaOS) - x86 Kernel with it's own bootloader.
+* [KolibriOS](http://www.kolibrios.org) - MenuetOS fork
+* [LemonOS](https://lemonos.org/), [GitHub](https://github.com/fido2020/Lemon-OS) - UNIX-like 64-bit operating system written in C++.
+* [lyre](https://github.com/lyre-os/lyre) - x86 kernel and distribution powered by mlibc, GNU userland tools, and other common *nix software.
+* [Mako](https://github.com/AjayMT/mako) - Hobby OS for x86 from scratch, written in C
+* [MaslOS](https://github.com/marceldobehere/MaslOS) - A 64 bit GUI multitasking Hobby OS written mostly from scratch in C++ and a bit of C/ASM.
+* [MenuetOS](http://www.menuetos.net/) - Hobby OS supporting 32 and 64 bit, written in Assembly language
+* [MeetixOS](https://github.com/MarcoCicognani/MeetixOS) - A hobby OS written in modern C++20 which aims to be Unix-like.
+* [mOS](https://github.com/MQuy/mos) - A hobby operating system developed from scratch
+* [moros](https://github.com/vinc/moros) - MOROS is a hobby operating system written in Rust for the x86 architecture.
+* [MyXomycota](https://sourceforge.net/projects/myxomycota/) - Monolithic kernel in C
+* [nopeos](https://github.com/d99kris/nopeos) - Simple OS kernel with BASIC interpreter for x86
+* [Northport](https://github.com/DeanoBurrito/northport) - Monolithic kernel and support libraries for riscv64 and x86_64.
+* [oneOS](https://github.com/nimelehin/oneOS) - x86-32 and ARMv7 kernel with pre-emptive multi-threading, window manager and editor
+* [pranaOS](https://github.com/pranaOS/pranaOS) - A unix operating system written from scratch in c / c++
+* [PathOS](http://path-os.duckdns.org/) - Hobby OS based on [MikeOS](https://github.com/mig-hub/mikeOS), written in Assembly Language
+* [PonyOS](https://ponyos.org/), [GitHub](https://github.com/klange/ponyos) - ToaruOS-based, My Little Pony themed OS
+* [PouplyOS](https://github.com/mtribiere/PoulpyOS) - Simple OS for fun and learning, named after the ESISAR mascot Poulpy
+* [r3](https://github.com/Narasimha1997/r3) - A hobby x86_64 Operating System kernel written in Rust -- with minimal functionalities
+* [SayoriOS](https://github.com/pimnik98/SayoriOS) - Hobby OS for x86 computers, currently under active development, written in C
+* [Serenity](https://github.com/SerenityOS/serenity) - Graphical Unix-like operating system for x86 computers
+* [SimpleOS](https://github.com/xing1357/SimpleOS) - Simple Operating System coded in C and Assembly
+* [Snowdrop OS](http://sebastianmihai.com/snowdrop/) - a homebrew operating system from scratch, in assembly language 
+* [Sortix](https://sortix.org/) - Hobby OS in C and C++ by *Jonas 'Sortie' Termansen*
+* [TempleOS](https://github.com/minexew/TempleOS) - Religious OS :-)
+* [TETRIS-OS](https://github.com/jdah/tetris-os) - An operating system, but it only plays Tetris.
+* [ToaruOS](https://github.com/klange/toaruos) - Hobby operating system from scratch
+* [Týndur](http://www.tyndur.org/) - Hobby operating system build by the Lowlevel community. Written in C and Pascal
+* [Ultron OS](https://github.com/aswinmohanme/ultronOS) - x86 Operating System written in C++, High School Project
+* [unox-os](https://github.com/bistcuite/unox-os) - Unox is an educational unix-like operating system
+* [Visopsys](https://visopsys.org/) - Open Source Hobby OS developed since 1997
+* [willOS](https://github.com/willdurand/willOS) - A minimal 64 bits kernel (Operating System that cannot "operate" a lot of things)
+* [Windows 95 in Electron](https://github.com/felixrieseberg/windows95) - Hobby Windows 95 implementation in Electron
+* [Xv6](https://pdos.csail.mit.edu/6.828/2019/xv6.html) - A teaching operating system developed in the summer of 2006 for MIT's operating systems course
+* [BareMetal](http://www.returninfinity.com/), [GitHub](https://github.com/ReturnInfinity/BareMetal) - 64 bit operating system written in Assembly for x86-64
+* [ZealOS](https://github.com/Zeal-Operating-System/ZealOS) - The Zeal Operating System is a modernized, professional fork of the 64-bit Temple Operating System, TempleOS.
+
+
+
+
+
+
  
  <strong><H2> Popular Operating Systems </H2></strong>
 - <a href="https://github.com/apple/darwin-xnu"> Darwin XNU </a>- The XNU kernel source code for use in MacOS and iOS
