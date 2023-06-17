@@ -1,4 +1,11 @@
-# Best Operating-System-Resources
+# Best Operating-System-Resources on the web
+<p align="center">
+    <img src="https://bleuje.github.io/gifset/2018/gifs/2018_45_hexagonpath.gif">
+</p>
+
+<h4 align="center">
+    <p><a href="https://twitter.com/etiennejcb/">Animation by Étienne Jacob</a></p>
+</h4>
 A collection of Operating System Resources for students, teachers and anyone interested. 
 <strong> <H2> Open Source Operating Systems </H2> </strong>
 - <a href="http://9front.org"> 9front </a> A fork of Plan 9, designed for distributed, networked computing. 
