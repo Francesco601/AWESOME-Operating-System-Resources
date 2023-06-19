@@ -124,11 +124,6 @@ A collection of Operating System Resources for students, teachers and anyone int
 * [BareMetal](http://www.returninfinity.com/), [GitHub](https://github.com/ReturnInfinity/BareMetal) - 64 bit operating system written in Assembly for x86-64
 * [ZealOS](https://github.com/Zeal-Operating-System/ZealOS) - The Zeal Operating System is a modernized, professional fork of the 64-bit Temple Operating System, TempleOS.
 
-
-
-
-
-
  
  <strong><H2> Popular Operating Systems </H2></strong>
 - <a href="https://github.com/apple/darwin-xnu"> Darwin XNU </a>- The XNU kernel source code for use in MacOS and iOS
@@ -227,3 +222,12 @@ A collection of Operating System Resources for students, teachers and anyone int
 - <a href="https://www.kernel.org/doc/html/latest/"> The Linux Kernel Documentation </a> Top level of the kernel documentation tree 
 - <a href="http://www.oldlinux.org/"> Old Linux </a> A heavily commented Old Linux kernel source 
 - <a href="https://makelinux.github.io/kernel/map/"> bootlin's interactive kernel map </a> 
+
+<strong><H2> Progarmming language books **essential** to OS development and programming </H2> </strong>
+- <a href="https://kremlin.cc/k&r.pdf"> The C Programming Language </a> - Kernighan and Ritchie
+- <a href="https://savedparadigms.files.wordpress.com/2014/09/harbison-s-p-steele-g-l-c-a-reference-manual-5th-ed.pdf"> C: A Reference Manual </a> Harbison and Steele
+- <a href="https://www.amazon.com/Assembly-Language-x86-Processors-7th/dp/0133769402"> Asssembly Language for x-86 Processors </a> Kip Irvine
+- <a href="https://shanniz.github.io/courses/assemblylanguage/Ytha_Yu_Charles_Marut_Assembly_Language.pdf"> Assembly Language Programming and Organization of the IBM PC </a> Ytha Yu and Charles Marut
+
+
+
