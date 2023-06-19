@@ -223,7 +223,7 @@ A collection of Operating System Resources for students, teachers and anyone int
 - <a href="http://www.oldlinux.org/"> Old Linux </a> A heavily commented Old Linux kernel source 
 - <a href="https://makelinux.github.io/kernel/map/"> bootlin's interactive kernel map </a> 
 
-<strong><H2> Progarmming language books **essential** to OS development and programming </H2> </strong>
+<strong><H2> Programming language books *essential* to OS development and programming </H2> </strong>
 - <a href="https://kremlin.cc/k&r.pdf"> The C Programming Language </a> - Kernighan and Ritchie
 - <a href="https://savedparadigms.files.wordpress.com/2014/09/harbison-s-p-steele-g-l-c-a-reference-manual-5th-ed.pdf"> C: A Reference Manual </a> Harbison and Steele
 - <a href="https://www.amazon.com/Assembly-Language-x86-Processors-7th/dp/0133769402"> Asssembly Language for x-86 Processors </a> Kip Irvine
