@@ -58,6 +58,7 @@ A collection of Operating System Resources for students, teachers and anyone int
 - <a href="http://www.jbox.dk/sanos"> Sanos </a> Sanos is a minimalistic 32-bit x86 operating system kernel for network server appliances running on standard PC hardware.
 - <a href="https://skiftos.org/">  Skiftos </a> A simple, handmade, operating system with a graphical user interface.
 - <a href="https://genode.org/download/sculpt"> Sculpt OS </a> - Genode based OS
+- <a href="http://sebastianmihai.com/snowdrop/binaries-sources.html"> Snowdrop OS </a> a homebrew operating system from scratch, written in X86 Assembly.
 - <a href="https://github.com/ozkl/soso"> Soso  </a> Simple Unix-like operating system written in Nasm assembly and mostly in C
 - <a href="http://syllable.metaproject.frl/"> Syllable operating system </a> Designed in the tradition of the Amiga and BeOS. but built using many parts from the GNU project and Linux.
 - <a href="https://github.com/SynestiaOS/SynestiaOS"> Synesthia OS </a>  32/64 bit operating system written in C for arm platform
