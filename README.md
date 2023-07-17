@@ -167,7 +167,7 @@ A collection of Operating System Resources for students, teachers and anyone int
 - <a href="http://www.brokenthorn.com/Resources/OSDevIndex.html"> Operating System Develpment Series </a>  OS from the ground up in C
 - [xv6: a simple, Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2019/xv6/book-riscv-rev0.pdf) - Book for Xv6
 - [Operating Systems: From 0 to 1](https://tuhdo.github.io/os01/) - Bootstrap yourself to write an OS from scratch by Do Hoang Tu
-- <a href="https://www.amazon.in/Linux-Device-Drivers-Jessica-Mckellar/dp/1449371612"> Linux Device Drivers 4th Edition </a>
+- <a href="https://www.amazon.in/Linux-Device-Drivers-Jessica-Mckellar/dp/1449371612"> Linux Device Drivers 4th Edition </a> - Alessandro Rubini et al
 - <a href="https://github.com/amitkumar3968/tech-books-pdf/blob/master/Linux/Essential%20Linux%20Device%20Drivers.pdf"> Essential Linux Device Drivers </a> - Sreekrishnan Venkateswaran
 
 
