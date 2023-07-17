@@ -168,6 +168,8 @@ A collection of Operating System Resources for students, teachers and anyone int
 - [xv6: a simple, Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2019/xv6/book-riscv-rev0.pdf) - Book for Xv6
 - [Operating Systems: From 0 to 1](https://tuhdo.github.io/os01/) - Bootstrap yourself to write an OS from scratch by Do Hoang Tu
 - <a href="https://www.amazon.in/Linux-Device-Drivers-Jessica-Mckellar/dp/1449371612"> Linux Device Drivers 4th Edition </a>
+- <a href="https://github.com/amitkumar3968/tech-books-pdf/blob/master/Linux/Essential%20Linux%20Device%20Drivers.pdf"> Essential Linux Device Drivers </a> - Sreekrishnan Venkateswaran
+
 
 <strong> <H2> Articles and Papers: </H2> </strong>
 - <a href="https://www.researchgate.net/publication/353526819_A_Comparative_Analysis_of_Operating_System_case_study_of_Windows_Operating_and_Mackintosh_Operating_System"> A Comparative Analysis of Operating Systems: case study of Windows and Macintoch Operating Systems </a>- Maryam Sarki Abubakar (pdf)
