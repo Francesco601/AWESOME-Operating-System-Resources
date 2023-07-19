@@ -5,9 +5,10 @@
 
 <h4 align="center">
     <p><a href="https://twitter.com/etiennejcb/">Animation by Étienne Jacob</a></p>
-</h4>
+</h>
 
-A collection of Operating System Resources for students, teachers and anyone interested. 
+I started this repository with the aim of creating the absolute best collection of resources on operating systems on the whole Internet. I did not know that there were others who had created similar repositories, some that had been around for years apparently. Admittedly, I "borrowed" some of their links, but I checked evety single site and included many more than the other people had. The books I linked to, for example, are not just links to Amazon but links to the actual pdf version of the books! I did this because I know there are many people in parts of the world or in circumstanced where they can't afford the price of these ridiculously expensive texts. I notice that the others with inferior collections have gotten about 10K stars and the like. If you find this repository useful, please add a star so I can be encouraged to continue to improve all my repositories. You are also free to contribute (please do!) if you know of other stuff to add. 
+
 <strong> <H2> Open Source Operating Systems </H2> </strong>
 - <a href="http://9front.org"> 9front </a> A fork of Plan 9, designed for distributed, networked computing. 
 - <a href="https://github.com/ackOS-project/ackOS">  AckOS </a> A simple 64-bit operating system. 
