@@ -231,6 +231,6 @@ I started this repository with the aim of creating the absolute best collection 
 - <a href="https://savedparadigms.files.wordpress.com/2014/09/harbison-s-p-steele-g-l-c-a-reference-manual-5th-ed.pdf"> C: A Reference Manual </a> Harbison and Steele
 - <a href="https://www.amazon.com/Assembly-Language-x86-Processors-7th/dp/0133769402"> Asssembly Language for x-86 Processors </a> Kip Irvine
 - <a href="https://shanniz.github.io/courses/assemblylanguage/Ytha_Yu_Charles_Marut_Assembly_Language.pdf"> Assembly Language Programming and Organization of the IBM PC </a> Ytha Yu and Charles Marut
-- <a href="https://doc.rust-lang.org/stable/book/"> The Rust Programming Language </a> 
+- <a href="https://doc.rust-lang.org/stable/book/"> The Rust Programming Language </a> - Steve Klabnik and Carol Nichols, with contributions from the Rust Community
 
 
