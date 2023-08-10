@@ -101,7 +101,7 @@
 * [nopeos](https://github.com/d99kris/nopeos) - Simple OS kernel with BASIC interpreter for x86
 * [Northport](https://github.com/DeanoBurrito/northport) - Monolithic kernel and support libraries for riscv64 and x86_64.
 * [oneOS](https://github.com/nimelehin/oneOS) - x86-32 and ARMv7 kernel with pre-emptive multi-threading, window manager and editor
-* [Orb](https://desktop.leisink.net/) a web-based open source operating system
+* [Orb](https://desktop.leisink.net/) - a web-based open source operating system
 * [pranaOS](https://github.com/pranaOS/pranaOS) - A unix operating system written from scratch in c / c++
 * [PathOS](http://path-os.duckdns.org/) - Hobby OS based on [MikeOS](https://github.com/mig-hub/mikeOS), written in Assembly Language
 * [PonyOS](https://ponyos.org/), [GitHub](https://github.com/klange/ponyos) - ToaruOS-based, My Little Pony themed OS
