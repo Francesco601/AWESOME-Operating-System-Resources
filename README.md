@@ -145,7 +145,7 @@
 - <a href="https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf"> Operating System Concepts </a> - Silberschatz, Galvin, Gagne (pdf)
 - <a href="https://csc-knu.github.io/sys-prog/books/Andrew%20S.%20Tanenbaum%20-%20Modern%20Operating%20Systems.pdf">  Modern Operating Systems  </a>- - Tannenbaum, Bos (pdf)
 - <a href="http://160592857366.free.fr/joe/ebooks/ShareData/Design%20of%20the%20Unix%20Operating%20System%20By%20Maurice%20Bach.pdf"> The Design of the Unix Operating System </a>  -Maurice J. Bach (pdf)
-- <a href="https://www.infobooks.org/free-pdf-books/computers/operating-systems/"> 15+ Free Operating System Books </a> 
+- <a href=" https://www.infobooks.org/pdfview/8128-operating-systems-prashanta-kumar-patra/"> Operating Systems </a> - Prasantha Kumar Patra
 - <a href="https://docplayer.net/186755178-Operating-systems-an-introduction-by-r-garg-g-verma.html"> Operating Systems: An Introduction  </a>  R. Garg, G Verna 
 - <a href="https://tldp.org/LDP/intro-linux/intro-linux.pdf"> Introduction to Linux: A Hands on Guide </a>  Machtelt Garrells (pdf)
 - <a href="https://www.kea.nu/files/textbooks/ospp/osppv1.pdf"> Operating Systems: Principles and Practices (Volume 1) </a> - Anderson, Dahlin (pdf)
