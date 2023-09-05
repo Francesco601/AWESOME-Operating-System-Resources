@@ -77,6 +77,7 @@
 * [AlmeidaOS](https://github.com/PauloMigAlmeida/AlmeidaOS) - x86-64 OS with its own bootloader, scheduler and limited libc all written from scratch
 * [AquilaOS](https://aquilaos.com) - Operating System that is designed to be POSIX compliant and mostly ISA transparent
 * [Animal](https://github.com/frednora/animal) - 32 bit multithreaded operating system (formerly Gramado)
+* [ArcaOS](https://www.arcanoae.com/arcaos/) this is based on the classic OS2\Warp operating system but is designed to work on modern hardware.
 * [Basekernel](https://github.com/dthain/basekernel) - A simple OS kernel for research, teaching, and fun
 * [Brutal](https://brutal-org.netlify.app/), [GitHub](https://github.com/brutal-org/brutal) - An operating system inspired by brutalist design that combines the ideals of UNIX from the 1970s with modern technology and engineering
 * [Cyjon](https://github.com/CorruptedByCPU/Cyjon/) - pure x64 assembly language operating system (related to [Fern-Night](https://github.com/CorruptedByCPU/Fern-Night/) project).
