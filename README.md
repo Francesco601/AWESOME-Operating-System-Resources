@@ -1,4 +1,4 @@
-# Best Operating-System-Resources on the web
+# Awesome Operating-System-Resources on the web
 <p align="center">
     <img src="https://bleuje.github.io/gifset/2018/gifs/2018_45_hexagonpath.gif">
 </p>
