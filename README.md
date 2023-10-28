@@ -144,10 +144,10 @@
 - <a href="https://archive.org/details/ATTUNIXSystemVRelease4Version2"> SystemV </a>- the classic AT&T UNIX System V Source Code
 
 <strong> <H2> Books   </H2> </strong>
-- <a href="https://drdineshsharma.com/Operating%20Systems.pdf"> Operating Systems: Three Easy Pieces </a> - Remzy H. Arpacci-Dusseau, Andrea C. Arpacci-Dusseau  (pdf)
-- <a href="https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf"> Operating System Concepts </a> - Silberschatz, Galvin, Gagne (pdf)
-- <a href="https://csc-knu.github.io/sys-prog/books/Andrew%20S.%20Tanenbaum%20-%20Modern%20Operating%20Systems.pdf">  Modern Operating Systems  </a>- - Tannenbaum, Bos (pdf)
-- <a href="http://160592857366.free.fr/joe/ebooks/ShareData/Design%20of%20the%20Unix%20Operating%20System%20By%20Maurice%20Bach.pdf"> The Design of the Unix Operating System </a>  -Maurice J. Bach (pdf)
+- <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/"> Operating Systems: Three Easy Pieces </a> - Remzy H. Arpacci-Dusseau, Andrea C. Arpacci-Dusseau  
+- <a href="https://os-book.com/OS8/os8j/index.html"> Operating System Concepts with Java </a> - Silberschatz, Galvin, Gagne 
+- <a href="https://www.amazon.it/Modern-Operating-Systems-Global-Edition/dp/1292459662">  Modern Operating Systems  </a>- - Tannenbaum, Bos 
+- <a href="https://www.amazon.com/Design-UNIX-Operating-System/dp/0132017997"> The Design of the Unix Operating System </a>  -Maurice J. Bach 
 - <a href=" https://www.infobooks.org/pdfview/8128-operating-systems-prashanta-kumar-patra/"> Operating Systems </a> - Prasantha Kumar Patra
 - <a href="https://www.infobooks.org/pdfview/8129-operating-systems-i-dr-a-s-sodiya/"> Operating Systems 1 </a> - Dr. A S Sodiya
 - <a href="https://www.infobooks.org/pdfview/8130-monograph-on-operating-system-dr-mamta-bansal-rajshree/"> Monograph on Operating Systems </a> - Dr Mamta Bansal Rajshree
