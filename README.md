@@ -148,7 +148,7 @@
 - <a href="https://os-book.com/OS8/os8j/index.html"> Operating System Concepts with Java </a> - Silberschatz, Galvin, Gagne 
 - <a href="https://www.amazon.it/Modern-Operating-Systems-Global-Edition/dp/1292459662">  Modern Operating Systems  </a>- - Tannenbaum, Bos 
 - <a href="https://www.amazon.com/Design-UNIX-Operating-System/dp/0132017997"> The Design of the Unix Operating System </a>  -Maurice J. Bach 
-- <a href=" https://www.infobooks.org/pdfview/8128-operating-systems-prashanta-kumar-patra/"> Operating Systems </a> - Prasantha Kumar Patra
+- <a href="https://www.infobooks.org/pdfview/8128-operating-systems-prashanta-kumar-patra/"> Operating Systems </a> - Prasantha Kumar Patra
 - <a href="https://www.infobooks.org/pdfview/8129-operating-systems-i-dr-a-s-sodiya/"> Operating Systems 1 </a> - Dr. A S Sodiya
 - <a href="https://www.infobooks.org/pdfview/8130-monograph-on-operating-system-dr-mamta-bansal-rajshree/"> Monograph on Operating Systems </a> - Dr Mamta Bansal Rajshree
 - <a href="https://www.infobooks.org/pdfview/8131-operating-systems-an-overview-university-of-kashmir/"> Operating Systems An Ovewview </a> - University of Kashmir
