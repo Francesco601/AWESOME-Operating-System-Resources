@@ -38,6 +38,7 @@
 - <a href="http://jehanne.io/"> Jehanne </a>  OS inspired by Plan9, 9front and Harvey OS
 - <a href="https://github.com/KnightOS/KnightOS"> KnightOS </a> An OS for z80 calculators
 - <a href="https://github.com/kernkonzept/l4re-core"> l4re-core </a>  Operating system and hypervisor for security/safety-critical and virtualization-enabled applications.
+- <a href="https://blog.lenot.re/a/introduction"> Maestro </a> a new (2024) open source OS with Unix-like kernel written in Rust
 - <a href="https://github.com/managarm/managarm"> Managarm </a>  Pragmatic microkernel-based OS with fully asynchronous I/O
 - <a href="https://github.com/mentos-team/MentOS"> MentOS </a>  An educational 32-bit Linux-like Operating System.
 - <a href="http://www.menuetos.net/"> Menuet OS </a> An OS in development for PC. Written entirely in Assembly (32 and 64 bit)
